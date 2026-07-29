@@ -1,0 +1,13 @@
+project_name: 个股跟踪晨报
+timezone: Asia/Shanghai
+lookback_days: 3
+history_days: 90
+minimum_display_score: 40
+urgent_score: 85
+important_score: 70
+normal_score: 50
+sources:
+  announcements: true
+  news: true
+notifications:
+  feishu_enabled: true

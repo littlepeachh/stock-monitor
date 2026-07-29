@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>个股跟踪晨报</title>
+<style>
+:root{--bg:#f4f7fb;--card:#fff;--text:#172033;--muted:#6b7485;--line:#e6eaf0;--shadow:0 14px 35px rgba(20,35,70,.08)}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
+.container{max-width:1180px;margin:auto;padding:34px 22px 70px}
+.hero{background:linear-gradient(135deg,#101d36,#273b67);color:#fff;border-radius:24px;padding:30px;box-shadow:var(--shadow)}
+.hero h1{margin:0 0 8px;font-size:30px} .hero p{margin:0;color:#cbd5e8}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:22px} .metric{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:15px}
+.metric strong{display:block;font-size:26px} .metric span{font-size:13px;color:#cbd5e8}
+.toolbar{display:flex;gap:12px;margin:22px 0;flex-wrap:wrap} input,select{border:1px solid var(--line);border-radius:12px;padding:11px 14px;background:#fff;font-size:14px;min-width:190px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.event-card{background:var(--card);border-radius:18px;padding:20px;border:1px solid var(--line);box-shadow:0 5px 18px rgba(20,35,70,.04);border-top:4px solid #9ca3af}
+.event-card.urgent{border-top-color:#c62828} .event-card.major{border-top-color:#ef6c00} .event-card.normal{border-top-color:#1976d2}
+.event-head{display:flex;justify-content:space-between;align-items:flex-start;gap:14px} .event-head strong{display:block;font-size:17px} .event-head span{display:block;color:var(--muted);font-size:12px;margin-top:4px}
+.score{font-size:24px;font-weight:750} .score small{font-size:11px;color:var(--muted);margin-left:2px}
+h3{font-size:16px;line-height:1.5;margin:16px 0 10px} .badges{display:flex;gap:7px;flex-wrap:wrap} .badges b,.badges i{font-style:normal;font-size:11px;border-radius:999px;padding:5px 9px;background:#eef2f7;color:#465168}
+.event-card p{font-size:14px;color:#4e596d;line-height:1.7} .impact{font-size:13px;background:#f7f9fc;border-radius:12px;padding:12px;line-height:1.6} .impact strong{display:block;color:#222;margin-bottom:3px}
+footer{display:flex;justify-content:space-between;align-items:center;margin-top:14px;font-size:12px;color:var(--muted)} a{color:#2459c4;text-decoration:none;font-weight:600} .empty{grid-column:1/-1;text-align:center;padding:70px;color:var(--muted)}
+.note{text-align:center;color:var(--muted);font-size:12px;margin-top:28px}
+@media(max-width:760px){.metrics{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}.hero h1{font-size:25px}}
+</style>
+</head>
+<body><main class="container">
+<section class="hero"><h1>个股跟踪晨报</h1><p>最后更新：2026-07-29 01:14 · 规则筛选版 MVP</p>
+<div class="metrics"><div class="metric"><strong>3</strong><span>自选股</span></div><div class="metric"><strong>2</strong><span>有效更新</span></div><div class="metric"><strong>1</strong><span>重大及以上</span></div><div class="metric"><strong>2</strong><span>涉及公司</span></div></div></section>
+<div class="toolbar"><input id="search" placeholder="搜索公司或事件"><select id="level"><option value="">全部级别</option><option>紧急</option><option>重大</option><option>一般</option><option>低</option></select></div>
+<section class="grid" id="grid">
+            <article class="event-card urgent" data-company="新易盛" data-level="紧急">
+              <div class="event-head">
+                <div><strong>新易盛</strong><span>300502 · 重大合同/订单</span></div>
+                <div class="score">88<small>分</small></div>
+              </div>
+              <h3>示例：关于签署重大采购协议的公告</h3>
+              <div class="badges"><b>紧急</b><i>偏正面</i><i>公司公告</i></div>
+              <p>这是用于预览界面的示例数据。正式运行后，程序会自动抓取并替换为真实公告和新闻。</p>
+              <div class="impact"><strong>潜在影响</strong>可能影响未来收入确认和订单能见度</div>
+              <footer><time>2026-07-29T07:35</time></footer>
+            </article>
+            
+            <article class="event-card normal" data-company="天孚通信" data-level="一般">
+              <div class="event-head">
+                <div><strong>天孚通信</strong><span>300394 · 行业/市场新闻</span></div>
+                <div class="score">59<small>分</small></div>
+              </div>
+              <h3>示例：海外云厂商上调AI资本开支预期</h3>
+              <div class="badges"><b>一般</b><i>偏正面</i><i>个股新闻</i></div>
+              <p>示例行业新闻，用于展示新闻类事件的筛选、评分和影响提示。</p>
+              <div class="impact"><strong>潜在影响</strong>需结合公司产业链位置判断间接影响</div>
+              <footer><time>2026-07-28T20:10</time></footer>
+            </article>
+            </section>
+<p class="note">自动评分仅用于信息筛选，不构成投资建议。请以公告原文和正式研究为准。</p>
+</main>
+<script>
+const search=document.getElementById('search'),level=document.getElementById('level');
+function filter(){const q=search.value.trim().toLowerCase(),lv=level.value;document.querySelectorAll('.event-card').forEach(card=>{const okQ=!q||card.innerText.toLowerCase().includes(q);const okL=!lv||card.dataset.level===lv;card.style.display=okQ&&okL?'block':'none';})}
+search.addEventListener('input',filter);level.addEventListener('change',filter);
+</script></body></html>

@@ -1,0 +1,38 @@
+[
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-07-29T07:35:00",
+    "source_type": "公司公告",
+    "title": "示例：关于签署重大采购协议的公告",
+    "url": "",
+    "content": "这是用于预览界面的示例数据。正式运行后，程序会自动抓取并替换为真实公告和新闻。",
+    "event_type": "重大合同/订单",
+    "importance_score": 88,
+    "importance_level": "紧急",
+    "sentiment": "偏正面",
+    "impact": "可能影响未来收入确认和订单能见度",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "demo300502contract",
+    "fetched_at": "2026-07-29T07:40:00"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-07-28T20:10:00",
+    "source_type": "个股新闻",
+    "title": "示例：海外云厂商上调AI资本开支预期",
+    "url": "",
+    "content": "示例行业新闻，用于展示新闻类事件的筛选、评分和影响提示。",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "偏正面",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "demo300394news",
+    "fetched_at": "2026-07-29T07:40:00"
+  }
+]
