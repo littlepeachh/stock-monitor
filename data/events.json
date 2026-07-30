@@ -1,5 +1,221 @@
 [
   {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-07-30T09:40:00",
+    "source_type": "新闻-证券时报网",
+    "title": "创业板公司融资余额五连降 其间累计减少306.92亿元",
+    "url": "http://finance.eastmoney.com/a/202607303826108336.html",
+    "content": "创业板融资余额变动排名 代码 简称 最新融资余额（亿元） 其间增减（亿元） 代码 简称 最新融资余额（亿元） 其间增减（亿元） 300285 国瓷材料 33.39 3.46 300502 新易盛 230.30 -66.68 301526 国际复材 13.91 2.38 300308",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "7557aebdf967e7e33ddc",
+    "fetched_at": "2026-07-30T09:38:13"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-07-30T09:40:00",
+    "source_type": "新闻-证券时报网",
+    "title": "创业板公司融资余额五连降 其间累计减少306.92亿元",
+    "url": "http://finance.eastmoney.com/a/202607303826108336.html",
+    "content": "300502 新易盛 230.30 -66.68 301526 国际复材 13.91 2.38 300308 中际旭创 362.16 -45.75 300260 新莱应材 7.49 2.09 300476 胜宏科技 170.68 -17.34 300779 惠城环保 13.92 1.72 300394",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "caa1eb8a872872bd1dce",
+    "fetched_at": "2026-07-30T09:38:16"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-07-29T20:19:00",
+    "source_type": "新闻-证券时报网",
+    "title": "32股特大单净流入资金超2亿元",
+    "url": "http://finance.eastmoney.com/a/202607293825298750.html",
+    "content": "电子 001309 德明利 354.58 -1.90 -4.20 电子 002428 云南锗业 66.98 -5.85 -3.55 有色金属 601208 东材科技 36.60 -6.01 -3.00 基础化工 300475 香农芯创 145.50 -1.20 -2.71 电子 300394",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "f3c7b4487cd29f795107",
+    "fetched_at": "2026-07-30T09:38:16"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-07-29T20:18:00",
+    "source_type": "新闻-证券时报网",
+    "title": "6只个股大宗交易超5000万元",
+    "url": "http://finance.eastmoney.com/a/202607293825288873.html",
+    "content": "1.45 32.15 84.50 2716.68 2 32.15 0.00 002437 誉衡药业 0.00 2.88 790.00 2259.40 1 2.86 -0.69 301566 达利凯普 2.76 22.30 100.00 2213.00 1 22.13 -0.76 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "0c52c445aca17ba4767f",
+    "fetched_at": "2026-07-30T09:38:13"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-07-29T20:18:00",
+    "source_type": "新闻-证券时报网",
+    "title": "解密主力资金出逃股 连续5日净流出347股",
+    "url": "http://finance.eastmoney.com/a/202607293825302921.html",
+    "content": "9.21 -62.08 000938 紫光股份 6 65.15 6.11 -9.96 688525 佰维存储 6 43.30 8.52 -21.81 688347 华虹宏力 6 41.21 6.81 -32.07 000063 中兴通讯 5 40.95 13.48 -8.01 300394",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "35f77f7fd5d5f1f498fc",
+    "fetched_at": "2026-07-30T09:38:16"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-07-29T17:46:00",
+    "source_type": "新闻-新财富杂志",
+    "title": "大手笔！300308，董事长提议最多80亿元回购！",
+    "url": "http://finance.eastmoney.com/a/202607293825191646.html",
+    "content": "深夜，光模块巨头中际旭创（300308）抛出大消息。 7月28日晚间，中际旭创公告，公司于2026年7月28日收到董事长兼总裁刘圣出具的函件，提议公司使用自有或自筹资金以集中竞价交易方式回购部分A股股票。",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "偏正面",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "9d477fd1e92c96478725",
+    "fetched_at": "2026-07-30T09:38:18"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-07-29T15:56:00",
+    "source_type": "新闻-证券时报网",
+    "title": "今日突破半年线个股",
+    "url": "http://finance.eastmoney.com/a/202607293825097943.html",
+    "content": "8.10 12.41 12.76 2.79 603871 嘉友国际 4.96 1.53 12.78 13.11 2.60 600415 小商品城 6.93 3.99 12.35 12.65 2.43 688087 英科再生 6.68 1.30 38.04 38.94 2.37 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "偏正面",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "8040eb9a652a75af7ec3",
+    "fetched_at": "2026-07-30T09:38:13"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-07-29T15:56:00",
+    "source_type": "新闻-证券时报网",
+    "title": "97只股中线走稳 站上半年线",
+    "url": "http://finance.eastmoney.com/a/202607293825099194.html",
+    "content": "2.48 14.05 14.41 2.54 603871 嘉友国际 4.88 1.22 12.78 13.10 2.52 688213 思特威 4.32 2.61 93.99 96.29 2.45 300981 中红医疗 19.98 1.19 12.56 12.85 2.31 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "839ec0c102004d4b927e",
+    "fetched_at": "2026-07-30T09:38:13"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-07-29T12:40:00",
+    "source_type": "新闻-上海证券报",
+    "title": "300308，成交额A股第一",
+    "url": "http://finance.eastmoney.com/a/202607293824919511.html",
+    "content": "其中，中际旭创（300308）成交额288.85亿元，位居A股第一；该股昨日成交额516亿元，同样位居A股当日成交额排名第一。 盘面上，全市场超3400只个股上涨。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "f441a0a948b5485aebb9",
+    "fetched_at": "2026-07-30T09:38:18"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-07-29T09:36:00",
+    "source_type": "新闻-证券时报网",
+    "title": "杠杆资金连续四日减仓创业板股",
+    "url": "http://finance.eastmoney.com/a/202607293824538336.html",
+    "content": "（数据宝） 创业板融资余额变动排名 代码 简称 最新融资余额（亿元） 其间增减（亿元） 代码 简称 最新融资余额（亿元） 其间增减（亿元） 300285 国瓷材料 32.36 2.42 300502 新易盛 242.01 -54.96 300779 惠城环保 14.45 2.25",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "be5e8b5b98c061fbb72e",
+    "fetched_at": "2026-07-30T09:38:13"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-07-29T09:36:00",
+    "source_type": "新闻-证券时报网",
+    "title": "创业板股融资余额增幅榜（附股）",
+    "url": "http://finance.eastmoney.com/a/202607293824520523.html",
+    "content": "0.06 电子 300870 欧陆通 89263.06 -13.75 183.61 -13.60 电力设备 300897 山科智能 7413.67 -12.99 16.02 7.23 机械设备 300720 海川智能 18144.84 -12.35 54.73 -11.90 机械设备 300394",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "8e6784f804feeed18052",
+    "fetched_at": "2026-07-30T09:38:16"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-07-29T09:36:00",
+    "source_type": "新闻-证券时报网",
+    "title": "杠杆资金连续四日减仓创业板股",
+    "url": "http://finance.eastmoney.com/a/202607293824538336.html",
+    "content": "最新融资余额（亿元） 其间增减（亿元） 300285 国瓷材料 32.36 2.42 300502 新易盛 242.01 -54.96 300779 惠城环保 14.45 2.25 300308 中际旭创 365.01 -42.90 300260 新莱应材 7.62 2.22 300394",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "7388558523462192cd64",
+    "fetched_at": "2026-07-30T09:38:16"
+  },
+  {
     "stock_code": "300308",
     "company_name": "中际旭创",
     "event_time": "2026-07-29T08:51:00",
@@ -15,7 +231,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "5aca937dfff3e12f54ed",
-    "fetched_at": "2026-07-29T01:34:07"
+    "fetched_at": "2026-07-30T09:38:18"
   },
   {
     "stock_code": "300502",
@@ -51,7 +267,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "b1cf3a2161c16ac93f57",
-    "fetched_at": "2026-07-29T01:34:06"
+    "fetched_at": "2026-07-30T09:38:17"
   },
   {
     "stock_code": "300308",
@@ -69,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "35fe33c6b251b259800e",
-    "fetched_at": "2026-07-29T01:34:07"
+    "fetched_at": "2026-07-30T09:38:18"
   },
   {
     "stock_code": "300308",
@@ -123,7 +339,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "5d030d2c3613b07b2b12",
-    "fetched_at": "2026-07-29T01:34:07"
+    "fetched_at": "2026-07-30T09:38:18"
   },
   {
     "stock_code": "300308",
@@ -141,7 +357,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "2fbfd8c4b3f552145eed",
-    "fetched_at": "2026-07-29T01:34:07"
+    "fetched_at": "2026-07-30T09:38:18"
   },
   {
     "stock_code": "300308",
@@ -177,7 +393,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "226c3f5397e668961892",
-    "fetched_at": "2026-07-29T01:34:07"
+    "fetched_at": "2026-07-30T09:38:18"
   },
   {
     "stock_code": "300502",
@@ -231,7 +447,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "91a9952084a7ee4f16ef",
-    "fetched_at": "2026-07-29T01:34:03"
+    "fetched_at": "2026-07-30T09:38:13"
   },
   {
     "stock_code": "300502",
@@ -303,7 +519,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "437717cb1c1b7307a888",
-    "fetched_at": "2026-07-29T01:34:04"
+    "fetched_at": "2026-07-30T09:38:16"
   },
   {
     "stock_code": "300394",
@@ -321,7 +537,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "b45a192d4d782e0842f4",
-    "fetched_at": "2026-07-29T01:34:04"
+    "fetched_at": "2026-07-30T09:38:16"
   },
   {
     "stock_code": "300394",
@@ -339,7 +555,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "a810e7c051935fee4828",
-    "fetched_at": "2026-07-29T01:34:04"
+    "fetched_at": "2026-07-30T09:38:16"
   },
   {
     "stock_code": "300394",
@@ -375,7 +591,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "88e0b749a784125f64d9",
-    "fetched_at": "2026-07-29T01:34:03"
+    "fetched_at": "2026-07-30T09:38:13"
   },
   {
     "stock_code": "300502",
@@ -393,7 +609,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "1b1cb197dba7b22f07ca",
-    "fetched_at": "2026-07-29T01:34:03"
+    "fetched_at": "2026-07-30T09:38:13"
   },
   {
     "stock_code": "300308",
@@ -411,7 +627,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "27cb515ac4016d653ef3",
-    "fetched_at": "2026-07-29T01:34:07"
+    "fetched_at": "2026-07-30T09:38:18"
   },
   {
     "stock_code": "300502",
@@ -429,7 +645,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0dc3dc3cd29d1dac963a",
-    "fetched_at": "2026-07-29T01:34:03"
+    "fetched_at": "2026-07-30T09:38:13"
   },
   {
     "stock_code": "300394",
@@ -483,7 +699,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "eca8869aef5bd86a7076",
-    "fetched_at": "2026-07-29T01:34:04"
+    "fetched_at": "2026-07-30T09:38:16"
   },
   {
     "stock_code": "300308",
@@ -501,7 +717,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "b0762724ac19fcec783a",
-    "fetched_at": "2026-07-29T01:34:06"
+    "fetched_at": "2026-07-30T09:38:17"
   },
   {
     "stock_code": "300308",
@@ -519,7 +735,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7dc8d30b5ce514df164b",
-    "fetched_at": "2026-07-29T01:34:06"
+    "fetched_at": "2026-07-30T09:38:17"
   },
   {
     "stock_code": "300394",
@@ -537,6 +753,6 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "8e550f76d56f5807749d",
-    "fetched_at": "2026-07-29T01:34:04"
+    "fetched_at": "2026-07-30T09:38:16"
   }
 ]
