@@ -1,5 +1,95 @@
 [
   {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-08-06T16:55:00",
+    "source_type": "新闻-证券时报网",
+    "title": "通信行业资金流入榜：天孚通信、光库科技等净流入资金居前",
+    "url": "http://finance.eastmoney.com/a/202608063833919652.html",
+    "content": "（数据宝） 通信行业资金流入榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 300394 天孚通信 3.89 6.22 115746.60 300620 光库科技 5.63 8.37 53424.12 002281 光迅科技 2.30 6.46 42673.14",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "ef6c565854f386ef223f",
+    "fetched_at": "2026-08-06T10:14:57"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-08-06T16:55:00",
+    "source_type": "新闻-证券时报网",
+    "title": "强势股追踪 主力资金连续5日净流入145股",
+    "url": "http://finance.eastmoney.com/a/202608063833915252.html",
+    "content": "连续5日或以上主力资金净流入个股排名 证券代码 证券简称 主力资金净流入天数 主力资金净流入金额（亿元） 主力资金净流入比例（%） 累计涨跌幅（%） 300394 天孚通信 5 61.71 9.05 40.71 002428 云南锗业 5 28.74 13.29 47.22 300620",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "b87edc6ac3c726278c25",
+    "fetched_at": "2026-08-06T10:14:57"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-06T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:H股公告(截至2026年7月31日止股份发行人的证券变动月报表)",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608051827675909.html",
+    "content": "其他",
+    "event_type": "一般动态",
+    "importance_score": 54,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "c8c7f5c5ebcab7b2c80d",
+    "fetched_at": "2026-08-06T10:14:58"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-05T19:05:00",
+    "source_type": "新闻-财中社",
+    "title": "光模块“黑天鹅”：中际旭创675亿元“天量”日成交",
+    "url": "http://finance.eastmoney.com/a/202608053832729588.html",
+    "content": "同属光模块板块的新易盛（300502.SZ）和天孚通信（300394.SZ）当日亦分别出现不同程度下跌。 从行业基本面来看，中国厂商目前占据全球超七成高速光模块产能。",
+    "event_type": "产能与产品",
+    "importance_score": 71,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响中期成长性、资本开支和竞争力",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "5ececff77fff03a60c85",
+    "fetched_at": "2026-08-06T10:14:56"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-08-05T19:05:00",
+    "source_type": "新闻-财中社",
+    "title": "光模块“黑天鹅”：中际旭创675亿元“天量”日成交",
+    "url": "http://finance.eastmoney.com/a/202608053832729588.html",
+    "content": "同属光模块板块的新易盛（300502.SZ）和天孚通信（300394.SZ）当日亦分别出现不同程度下跌。 从行业基本面来看，中国厂商目前占据全球超七成高速光模块产能。",
+    "event_type": "产能与产品",
+    "importance_score": 71,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响中期成长性、资本开支和竞争力",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "91ff4894fd87ea3af9ba",
+    "fetched_at": "2026-08-06T10:14:57"
+  },
+  {
     "stock_code": "300308",
     "company_name": "中际旭创",
     "event_time": "2026-08-05T17:59:17",
@@ -51,7 +141,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "652c499207e015a47526",
-    "fetched_at": "2026-08-05T10:12:11"
+    "fetched_at": "2026-08-06T10:15:00"
   },
   {
     "stock_code": "300308",
@@ -69,7 +159,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "36afd7eed9da1963fc88",
-    "fetched_at": "2026-08-05T10:12:11"
+    "fetched_at": "2026-08-06T10:15:00"
   },
   {
     "stock_code": "300502",
@@ -87,7 +177,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "135d3750471f54a94d72",
-    "fetched_at": "2026-08-05T10:12:07"
+    "fetched_at": "2026-08-06T10:14:56"
   },
   {
     "stock_code": "300394",
@@ -105,7 +195,25 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "80fc8f517a76691103de",
-    "fetched_at": "2026-08-05T10:12:10"
+    "fetched_at": "2026-08-06T10:14:57"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-05T11:01:54",
+    "source_type": "新闻-第一财经",
+    "title": "“易中天”回应“美国光模块禁令”传闻",
+    "url": "http://finance.eastmoney.com/a/202608053832330869.html",
+    "content": "8月5日盘中，“易中天”中际旭创（300308.SZ）、新易盛（300502.SZ）均跌超10%、天孚通信（300394.SZ）跌超5%。 相关消息称，美国联邦通信委员会(FCC)正在起草一项禁令，旨在禁止美国进口新机型的中国数据中心组件，包括光模块。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "c10ac5517a10b1b84847",
+    "fetched_at": "2026-08-06T10:15:00"
   },
   {
     "stock_code": "300502",
@@ -123,7 +231,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "dcbab98f3c295ed32956",
-    "fetched_at": "2026-08-05T10:12:07"
+    "fetched_at": "2026-08-06T10:14:56"
   },
   {
     "stock_code": "300394",
@@ -141,7 +249,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "8e884d998d36cdb9fcaa",
-    "fetched_at": "2026-08-05T10:12:10"
+    "fetched_at": "2026-08-06T10:14:57"
   },
   {
     "stock_code": "300308",
@@ -159,7 +267,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "f79fcae0a2899f11bcff",
-    "fetched_at": "2026-08-05T10:12:11"
+    "fetched_at": "2026-08-06T10:15:00"
   },
   {
     "stock_code": "300394",
@@ -249,7 +357,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "247858effa6194614d99",
-    "fetched_at": "2026-08-05T10:12:07"
+    "fetched_at": "2026-08-06T10:14:56"
   },
   {
     "stock_code": "300502",
@@ -267,7 +375,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "5d36960e9f55961c85eb",
-    "fetched_at": "2026-08-05T10:12:07"
+    "fetched_at": "2026-08-06T10:14:56"
   },
   {
     "stock_code": "300394",
@@ -285,7 +393,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c6dbd36dce85be767a66",
-    "fetched_at": "2026-08-05T10:12:10"
+    "fetched_at": "2026-08-06T10:14:57"
   },
   {
     "stock_code": "300308",
@@ -321,7 +429,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "f7a1c7d73fb2a3667229",
-    "fetched_at": "2026-08-05T10:12:07"
+    "fetched_at": "2026-08-06T10:14:56"
   },
   {
     "stock_code": "300502",
@@ -339,7 +447,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c66f179203e92d1d07a1",
-    "fetched_at": "2026-08-05T10:12:07"
+    "fetched_at": "2026-08-06T10:14:56"
   },
   {
     "stock_code": "300308",
@@ -375,7 +483,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "287f0aef88c4be366125",
-    "fetched_at": "2026-08-05T10:12:10"
+    "fetched_at": "2026-08-06T10:14:57"
   },
   {
     "stock_code": "300502",
@@ -393,7 +501,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "f1899d33c347772ff88c",
-    "fetched_at": "2026-08-05T10:12:07"
+    "fetched_at": "2026-08-06T10:14:56"
   },
   {
     "stock_code": "300394",
@@ -411,7 +519,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "e49e93d2fadfbcb475dc",
-    "fetched_at": "2026-08-05T10:12:10"
+    "fetched_at": "2026-08-06T10:14:57"
   },
   {
     "stock_code": "300394",
@@ -429,7 +537,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "fa19c00dc44ac80a6cc4",
-    "fetched_at": "2026-08-05T10:12:10"
+    "fetched_at": "2026-08-06T10:14:57"
   },
   {
     "stock_code": "300394",
@@ -555,7 +663,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "f8c51dd7eca10dc69dc8",
-    "fetched_at": "2026-08-05T10:12:10"
+    "fetched_at": "2026-08-06T10:14:57"
   },
   {
     "stock_code": "300308",
@@ -573,7 +681,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "51108d4e97ab0c333eed",
-    "fetched_at": "2026-08-05T10:12:11"
+    "fetched_at": "2026-08-06T10:15:00"
   },
   {
     "stock_code": "300502",
