@@ -1,5 +1,95 @@
 [
   {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-07T18:08:00",
+    "source_type": "新闻-金融投资报",
+    "title": "周末证券丨急跌不改长期逻辑！科技股“黄金坑”机会渐显→",
+    "url": "http://finance.eastmoney.com/a/202608073835331011.html",
+    "content": "潜力股精选 中芯国际(688981) 寒武纪(688256) 新易盛300502 佰维存储(688525) 彤程新材(603650) 江丰电子(300666) 绿的谐波(688017) 三花智控(002050) 铖昌科技(001270) 航天电子(600879)",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "256cb8b2d56263542976",
+    "fetched_at": "2026-08-08T04:18:11"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-07T17:02:00",
+    "source_type": "新闻-证券时报网",
+    "title": "通信行业资金流出榜：中际旭创等6股净流出资金超亿元",
+    "url": "http://finance.eastmoney.com/a/202608073835257613.html",
+    "content": "000070 特发信息 2.73 7.51 2750.09 300959 线上线下 2.31 7.86 2628.56 通信行业资金流出榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 300308 中际旭创 -3.68 5.15 -559028.48 300502",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "9ce8e7500c0c680cae73",
+    "fetched_at": "2026-08-08T04:18:11"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-08-07T17:02:00",
+    "source_type": "新闻-证券时报网",
+    "title": "通信行业资金流出榜：中际旭创等6股净流出资金超亿元",
+    "url": "http://finance.eastmoney.com/a/202608073835257613.html",
+    "content": "8.90 235353.56 688313 仕佳光子 7.54 7.61 53739.82 600522 中天科技 4.27 10.04 46866.03 600487 亨通光电 6.00 11.49 46244.20 001267 汇绿生态 10.00 11.85 42894.91 300394",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "164a85e2323e43224e52",
+    "fetched_at": "2026-08-08T04:18:12"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-08-07T17:02:00",
+    "source_type": "新闻-证券时报网",
+    "title": "强势股追踪 主力资金连续5日净流入166股",
+    "url": "http://finance.eastmoney.com/a/202608073835261486.html",
+    "content": "（数据宝） 连续5日或以上主力资金净流入个股排名 证券代码 证券简称 主力资金净流入天数 主力资金净流入金额（亿元） 主力资金净流入比例（%） 累计涨跌幅（%） 300394 天孚通信 6 64.59 7.85 44.08 002428 云南锗业 6 31.39 9.41 61.94",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "1d30e01104391460b0c2",
+    "fetched_at": "2026-08-08T04:18:12"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-07T16:18:17",
+    "source_type": "新闻-蓝鲸新闻",
+    "title": "或受AAOI扩产冲击 中际旭创尾盘跳水 公司回应：7月订单指引至今有效",
+    "url": "http://finance.eastmoney.com/a/202608073835197641.html",
+    "content": "光模块龙头中际旭创（300308.SZ）（03308.HK）A+H股今日尾盘双双跳水，港股早盘开盘一度涨超7%，午后快速转跌，截至收盘跌3.82%，报1107港元/股。A股收跌3.68%，报919.87元/股，当日主力资金净流出 56.44 亿元。",
+    "event_type": "重大合同/订单",
+    "importance_score": 83,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响未来收入确认和订单能见度",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "7ba7776c13ffd120fd47",
+    "fetched_at": "2026-08-08T04:18:14"
+  },
+  {
     "stock_code": "300394",
     "company_name": "天孚通信",
     "event_time": "2026-08-07T09:49:00",
@@ -33,7 +123,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "35840391c47be0d11634",
-    "fetched_at": "2026-08-07T05:53:52"
+    "fetched_at": "2026-08-08T04:18:14"
   },
   {
     "stock_code": "300394",
@@ -69,7 +159,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "b87edc6ac3c726278c25",
-    "fetched_at": "2026-08-07T05:53:49"
+    "fetched_at": "2026-08-08T04:18:12"
   },
   {
     "stock_code": "300308",
@@ -87,7 +177,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c8c7f5c5ebcab7b2c80d",
-    "fetched_at": "2026-08-07T05:53:51"
+    "fetched_at": "2026-08-08T04:18:14"
   },
   {
     "stock_code": "300502",
@@ -105,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "5ececff77fff03a60c85",
-    "fetched_at": "2026-08-07T05:53:48"
+    "fetched_at": "2026-08-08T04:18:11"
   },
   {
     "stock_code": "300394",
@@ -123,7 +213,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "91ff4894fd87ea3af9ba",
-    "fetched_at": "2026-08-07T05:53:49"
+    "fetched_at": "2026-08-08T04:18:12"
   },
   {
     "stock_code": "300308",
@@ -177,7 +267,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "652c499207e015a47526",
-    "fetched_at": "2026-08-07T05:53:52"
+    "fetched_at": "2026-08-08T04:18:14"
   },
   {
     "stock_code": "300308",
@@ -195,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "36afd7eed9da1963fc88",
-    "fetched_at": "2026-08-07T05:53:52"
+    "fetched_at": "2026-08-08T04:18:14"
   },
   {
     "stock_code": "300502",
@@ -213,7 +303,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "135d3750471f54a94d72",
-    "fetched_at": "2026-08-07T05:53:48"
+    "fetched_at": "2026-08-08T04:18:11"
   },
   {
     "stock_code": "300394",
@@ -231,7 +321,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "80fc8f517a76691103de",
-    "fetched_at": "2026-08-07T05:53:49"
+    "fetched_at": "2026-08-08T04:18:12"
   },
   {
     "stock_code": "300308",
@@ -267,7 +357,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "dcbab98f3c295ed32956",
-    "fetched_at": "2026-08-07T05:53:48"
+    "fetched_at": "2026-08-08T04:18:11"
   },
   {
     "stock_code": "300394",
@@ -285,7 +375,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "8e884d998d36cdb9fcaa",
-    "fetched_at": "2026-08-07T05:53:49"
+    "fetched_at": "2026-08-08T04:18:12"
   },
   {
     "stock_code": "300308",
@@ -303,7 +393,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "f79fcae0a2899f11bcff",
-    "fetched_at": "2026-08-07T05:53:52"
+    "fetched_at": "2026-08-08T04:18:14"
   },
   {
     "stock_code": "300394",
