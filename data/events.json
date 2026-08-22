@@ -1,5 +1,365 @@
 [
   {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:2026年半年度报告披露的提示性公告",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276725.html",
+    "content": "其他",
+    "event_type": "业绩与财务",
+    "importance_score": 90,
+    "importance_level": "紧急",
+    "sentiment": "中性",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "49efab1dba0d87fd8ebf",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:2026年半年度报告摘要",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276726.html",
+    "content": "半年度报告摘要",
+    "event_type": "业绩与财务",
+    "importance_score": 90,
+    "importance_level": "紧急",
+    "sentiment": "中性",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "fcd8c9d282be833d2e29",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:2026年半年度报告",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276722.html",
+    "content": "半年度报告全文",
+    "event_type": "业绩与财务",
+    "importance_score": 90,
+    "importance_level": "紧急",
+    "sentiment": "中性",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "e539ed3c54f0f2c51127",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:第六届董事会第三次会议决议公告",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276699.html",
+    "content": "分配预案",
+    "event_type": "管理层与治理",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响公司治理和战略执行稳定性",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "2eeda6347b250c2a3d21",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:H股公告(截至二零二六年六月三十日止六个月之中期股息)",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828282421.html",
+    "content": "其他",
+    "event_type": "一般动态",
+    "importance_score": 54,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "22eaa58ffc83f9689ea5",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:H股公告(截至2026年6月30日止六个月的中期业绩公告)",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828282420.html",
+    "content": "其他",
+    "event_type": "一般动态",
+    "importance_score": 54,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "ed69e46615e59f023036",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:关于2026年半年度利润分配方案的公告",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276704.html",
+    "content": "分配预案",
+    "event_type": "一般动态",
+    "importance_score": 54,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "42b3b4a94aa1b2a00d2d",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-22T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276708.html",
+    "content": "资金占用",
+    "event_type": "一般动态",
+    "importance_score": 54,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "0de05fcca21e044f2d1c",
+    "fetched_at": "2026-08-22T01:09:38"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-21T22:03:48",
+    "source_type": "新闻-央广财经",
+    "title": "中际旭创披露2026年半年报：上半年净利润136.51亿元 同比增长241.7%",
+    "url": "http://finance.eastmoney.com/a/202608213849679184.html",
+    "content": "8月21日，中际旭创（300308.SZ）发布公告披露2026年半年度业绩报告，期内公司实现营业收入417.78亿元，同比增长182.49%；归属于上市公司股东的净利润为136.51亿元，同比增长241.7%。同时公司公布分红方案，拟向全体股东每10股派发现金红利12元（含税）。",
+    "event_type": "业绩与财务",
+    "importance_score": 85,
+    "importance_level": "紧急",
+    "sentiment": "偏正面",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "bca4d766a7bc768a21f7",
+    "fetched_at": "2026-08-22T01:09:39"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-21T21:28:19",
+    "source_type": "新闻-央广财经",
+    "title": "中际旭创2026年半年报披露 章建平新晋为公司第九大股东",
+    "url": "http://finance.eastmoney.com/a/202608213849618869.html",
+    "content": "8月21日，中际旭创（300308.SZ）披露的2026年半年报显示，章建平新进跻身公司第九大股东序列，其持股数量为593.48万股，占公司总股本比例达0.53%。（央广财经）",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "fb38b4e6b595b2f94368",
+    "fetched_at": "2026-08-22T01:09:39"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-21T21:12:34",
+    "source_type": "新闻-第一财经",
+    "title": "中际旭创上半年净利增超200%，“易中天”二季度业绩分化",
+    "url": "http://finance.eastmoney.com/a/202608213849615284.html",
+    "content": "新易盛（300502.SZ）则预计上半年净利润为70亿元~80亿元，同比增长77.56%~102.93%。今年第一季度，新易盛净利润27.8亿元，同比增长76.8%。由此计算第二季度净利润预计为42.2亿元~52.2亿元，同比增长78%~120.3%。",
+    "event_type": "业绩与财务",
+    "importance_score": 85,
+    "importance_level": "紧急",
+    "sentiment": "偏正面",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "6eba69848afa91f5ce26",
+    "fetched_at": "2026-08-22T01:09:33"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-21T20:02:00",
+    "source_type": "新闻-财中社",
+    "title": "中际旭创拟每10股派发现金红利12元",
+    "url": "http://finance.eastmoney.com/a/202608213849522015.html",
+    "content": "8月21日，中际旭创（300308/03308）发布公告，公司拟向全体股东每10股派发现金红利12元（含税），预计总派发金额为14.04亿元。 2026年中期，中际旭创实现收入417.78亿元，归母净利润136.51亿元。",
+    "event_type": "业绩与财务",
+    "importance_score": 85,
+    "importance_level": "紧急",
+    "sentiment": "中性",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "c1be19c68cdc40949573",
+    "fetched_at": "2026-08-22T01:09:39"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-21T19:57:04",
+    "source_type": "新闻-北京商报",
+    "title": "知名牛散章建平出手！新进成中际旭创第九大股东",
+    "url": "http://finance.eastmoney.com/a/202608213849505495.html",
+    "content": "8月21日晚间，中际旭创（300308）发布2026年半年报显示，境内自然人章建平新进成为公司第九大股东，持股比例0.53%。 中际旭创中报显示，截至今年上半年末，章建平持股数量约为593.48万股，持股比例为0.53%。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "de439bd375a107fc9fcc",
+    "fetched_at": "2026-08-22T01:09:39"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-21T18:49:33",
+    "source_type": "新闻-大河财立方",
+    "title": "中际旭创业绩炸裂！上半年盈利136亿元，大增241％",
+    "url": "http://finance.eastmoney.com/a/202608213849470928.html",
+    "content": "【大河财立方消息】8月21日，中际旭创300308.SZ)发布2026年半年度报告。 上半年，中际旭创实现营业收入417.78亿元，同比增长182.49%；归属于上市公司股东的净利润136.51亿元，同比增长241.7%。",
+    "event_type": "业绩与财务",
+    "importance_score": 85,
+    "importance_level": "紧急",
+    "sentiment": "偏正面",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "e6662ac8c834d61ed271",
+    "fetched_at": "2026-08-22T01:09:39"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-21T18:44:00",
+    "source_type": "新闻-人民财讯",
+    "title": "中际旭创：上半年净利润同比增长241.7% 拟10派12元",
+    "url": "http://finance.eastmoney.com/a/202608213849461689.html",
+    "content": "人民财讯8月21日电，中际旭创3003088月21日披露半年报，2026年上半年，公司实现营业收入417.78亿元，同比增长182.49%；归母净利润136.51亿元，同比增长241.7%；基本每股收益12.31元。公司拟每10股派发现金红利12元(含税)。",
+    "event_type": "业绩与财务",
+    "importance_score": 85,
+    "importance_level": "紧急",
+    "sentiment": "偏正面",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "51908ea2078211fc4084",
+    "fetched_at": "2026-08-22T01:09:39"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-21T18:39:44",
+    "source_type": "新闻-财联社",
+    "title": "章建平新进成为中际旭创第九大股东",
+    "url": "http://finance.eastmoney.com/a/202608213849458347.html",
+    "content": "据中际旭创300308.SZ)2026年半年报显示，章建平新进成为第九大股东，持有593.48万股，占总股本比例0.53%。小财注：前十大股东不排除重名情况。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "a8fbd0dfbeb50c0949f4",
+    "fetched_at": "2026-08-22T01:09:39"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-21T16:10:00",
+    "source_type": "新闻-证券时报网",
+    "title": "8月21日31只股盘后交易额超500万元",
+    "url": "http://finance.eastmoney.com/a/202608213849282345.html",
+    "content": "奥瑞德 3.48 -0.85 439.14 1528.21 603986 兆易创新 409.06 1.38 3.47 1419.44 600487 亨通光电 62.18 0.26 22.73 1413.35 000725 京东方A 6.00 1.69 225.63 1353.78 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "b93973ceca0d20264761",
+    "fetched_at": "2026-08-22T01:09:33"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-21T14:17:00",
+    "source_type": "新闻-澎湃新闻",
+    "title": "光模块板块活跃：中际旭创成交额超220亿元，新易盛涨超6%",
+    "url": "http://finance.eastmoney.com/a/202608213849191073.html",
+    "content": "从市场上看，截至发稿时，旭光电子（600353）涨停，新易盛（300502）涨超6%，科瑞技术（002957）、中际旭创（300308）等涨超3%。其中，中际旭成交额超220亿元，新易盛成交额超180亿元，稳居两市成交额前列。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "0c3dfdb3b75dc4b9b0db",
+    "fetched_at": "2026-08-22T01:09:33"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-21T14:07:00",
+    "source_type": "新闻-证券时报网",
+    "title": "今日盘中突破半年线个股",
+    "url": "http://finance.eastmoney.com/a/202608213849182675.html",
+    "content": "3.60 4.57 8.73 8.93 2.24 300989 蕾奥规划 5.81 4.60 13.90 14.21 2.21 603663 三祥新材 3.24 2.83 41.19 42.08 2.17 600888 新疆众和 4.28 3.11 10.02 10.23 2.07 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "偏正面",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "1f3c331a086b0a0b916f",
+    "fetched_at": "2026-08-22T01:09:33"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-21T11:53:58",
+    "source_type": "新闻-金融投资报",
+    "title": "三年2900亿元激进KPI出炉！AI算力风口下，新易盛（300502）在下什么大棋？",
+    "url": "http://finance.eastmoney.com/a/202608213849106837.html",
+    "content": "光模块龙头新易盛（300502）抛出最新股权激励计划，考核目标为未来三年累计营收不低于2900亿元。 业内人士称，随着营收基数的持续放大，这个激进的目标完成难度不小。从产业发展角度看，新易盛作为光模块龙头将持续受益下游需求扩大，但也存在不确定风险。",
+    "event_type": "业绩与财务",
+    "importance_score": 85,
+    "importance_level": "紧急",
+    "sentiment": "偏负面",
+    "impact": "可能影响盈利预测和估值水平",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "d9d21270f2460629bd69",
+    "fetched_at": "2026-08-22T01:09:33"
+  },
+  {
     "stock_code": "300502",
     "company_name": "新易盛",
     "event_time": "2026-08-21T00:16:00",
@@ -15,7 +375,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "020d1cdae16b21e37255",
-    "fetched_at": "2026-08-21T01:13:14"
+    "fetched_at": "2026-08-22T01:09:33"
   },
   {
     "stock_code": "300502",
@@ -33,7 +393,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "462ec071c8e10db1fd6e",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -51,7 +411,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "14676ea974389ecfc09e",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -69,7 +429,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7fbbc49bde8f88e43dbe",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -87,7 +447,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0310dd0d652a7df405dc",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -105,7 +465,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "400081ed0d3357045e2b",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -123,7 +483,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "f6aa6f055db8c4d51972",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -141,7 +501,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "ffad3a7b98f2da36bffb",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -159,7 +519,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "ae705bed6b6e7f057bd0",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -177,7 +537,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "26d354379561050c54d3",
-    "fetched_at": "2026-08-21T01:13:13"
+    "fetched_at": "2026-08-22T01:09:31"
   },
   {
     "stock_code": "300502",
@@ -213,7 +573,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "2f582a449559ab941793",
-    "fetched_at": "2026-08-21T01:13:14"
+    "fetched_at": "2026-08-22T01:09:33"
   },
   {
     "stock_code": "300502",
@@ -231,7 +591,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7568235cfbee3ae5f675",
-    "fetched_at": "2026-08-21T01:13:14"
+    "fetched_at": "2026-08-22T01:09:33"
   },
   {
     "stock_code": "300502",
@@ -285,7 +645,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "42de7ec3e89d7fb8e101",
-    "fetched_at": "2026-08-21T01:13:14"
+    "fetched_at": "2026-08-22T01:09:33"
   },
   {
     "stock_code": "300308",
@@ -339,7 +699,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "887d5d5fc6d9fb3bb901",
-    "fetched_at": "2026-08-21T01:13:17"
+    "fetched_at": "2026-08-22T01:09:35"
   },
   {
     "stock_code": "300394",
@@ -357,7 +717,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c3a9aa51cef5663f0233",
-    "fetched_at": "2026-08-21T01:13:17"
+    "fetched_at": "2026-08-22T01:09:35"
   },
   {
     "stock_code": "300502",
@@ -447,7 +807,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "254c3ffa3708ff16d80b",
-    "fetched_at": "2026-08-21T01:13:17"
+    "fetched_at": "2026-08-22T01:09:35"
   },
   {
     "stock_code": "300394",
@@ -501,7 +861,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "6fd8ba4705d3987457d5",
-    "fetched_at": "2026-08-21T01:13:17"
+    "fetched_at": "2026-08-22T01:09:35"
   },
   {
     "stock_code": "300394",
@@ -519,7 +879,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "41f22cb4421868d19d35",
-    "fetched_at": "2026-08-21T01:13:17"
+    "fetched_at": "2026-08-22T01:09:35"
   },
   {
     "stock_code": "300394",
@@ -537,7 +897,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "b80dd1f8d4e0f26071c4",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
@@ -555,7 +915,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "5dd2c8b194dddb14c4e6",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
@@ -573,7 +933,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "792abf8af9ac202ad498",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
@@ -591,7 +951,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "fcf39d0985fced12fd1a",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
@@ -609,7 +969,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c0a77c6607d9ae3ffcd7",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
@@ -627,7 +987,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "6e36b12631ed13efa9c2",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
@@ -645,7 +1005,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "db7daee50a6cb9c7c59c",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
@@ -663,7 +1023,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "b75c81a3fc404c2409d3",
-    "fetched_at": "2026-08-21T01:13:16"
+    "fetched_at": "2026-08-22T01:09:34"
   },
   {
     "stock_code": "300394",
