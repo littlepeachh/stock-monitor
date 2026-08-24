@@ -2,6 +2,132 @@
   {
     "stock_code": "300308",
     "company_name": "中际旭创",
+    "event_time": "2026-08-24T08:15:26",
+    "source_type": "新闻-财联社",
+    "title": "客户是否有签订光模块的长协？中际旭创回应",
+    "url": "http://finance.eastmoney.com/a/202608243850479067.html",
+    "content": "中际旭创3003088月23日在机构电话会议上表示，过去光模块行业通常签订3个月订单，目前很多客户已给到2027年订单，相较过去已有较大提升。也有部分客户正在与公司洽谈长协，具体细节不便披露。",
+    "event_type": "重大合同/订单",
+    "importance_score": 83,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响未来收入确认和订单能见度",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "6fa2f961ec1684c4844f",
+    "fetched_at": "2026-08-24T01:13:01"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-24T08:15:07",
+    "source_type": "新闻-人民财讯",
+    "title": "客户是否有签订光模块的长协？中际旭创回应",
+    "url": "http://finance.eastmoney.com/a/202608243850476237.html",
+    "content": "中际旭创3003088月23日在机构电话会议上表示，过去光模块行业通常签订3个月订单，目前很多客户已给到2027年订单，相较过去已有较大提升。也有部分客户正在与公司洽谈长协，具体细节不便披露。",
+    "event_type": "重大合同/订单",
+    "importance_score": 83,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响未来收入确认和订单能见度",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "035d407cccc4157c7471",
+    "fetched_at": "2026-08-24T01:13:01"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-24T08:15:04",
+    "source_type": "新闻-财联社",
+    "title": "中际旭创回应二季度资本开支增长原因：多处厂房在扩建",
+    "url": "http://finance.eastmoney.com/a/202608243850478825.html",
+    "content": "中际旭创3003088月23日在机构电话会议上表示，资本开支包括设备和厂房的投入，公司多处厂房都在扩建中，小部分预计在2026年下半年交付，大部分预计在2027年交付。另外，基建支出投入周期较长，大部分会在2027年开始转化为收入。整体来看，未来收入有望实现逐季度增长。",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "偏正面",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "20cadd2618a815d5c776",
+    "fetched_at": "2026-08-24T01:13:01"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-24T08:12:25",
+    "source_type": "新闻-人民财讯",
+    "title": "中际旭创回应二季度经营性现金流下降原因",
+    "url": "http://finance.eastmoney.com/a/202608243850475423.html",
+    "content": "中际旭创3003088月23日在机构电话会议上表示，目前下游需求非常旺盛，在满足客户交付的同时，公司也在积极备产备料。2026年上半年经营性现金流支出绝大部分为购买原材料，其中部分是满足现实交货节奏的正常采购，此外还有大量提前备货。与备料相关的科目有预付账款和其他长期资产。",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "偏负面",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "bb7b92be577bda3a9ef0",
+    "fetched_at": "2026-08-24T01:13:01"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-24T07:30:34",
+    "source_type": "新闻-人民财讯",
+    "title": "中际旭创：2027年公司整体毛利率有望迎来更大提升空间",
+    "url": "http://finance.eastmoney.com/a/202608243850466551.html",
+    "content": "中际旭创3003088月23日在电话会议上表示，2027年2.4T、NPO、XPO等新产品有望逐步上量，这些产品具有高带宽、定制化的特点，毛利率有望优于现有产品，公司整体毛利率有望迎来更大的提升空间。",
+    "event_type": "产能与产品",
+    "importance_score": 71,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响中期成长性、资本开支和竞争力",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "efab9e8ec1f224cd676e",
+    "fetched_at": "2026-08-24T01:13:01"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-24T07:30:00",
+    "source_type": "新闻-证券时报网",
+    "title": "中际旭创：2027年公司整体毛利率有望迎来更大提升空间",
+    "url": "http://finance.eastmoney.com/a/202608243850468296.html",
+    "content": "人民财讯8月24日电，中际旭创3003088月23日在电话会议上表示，2027年2.4T、NPO、XPO等新产品有望逐步上量，这些产品具有高带宽、定制化的特点，毛利率有望优于现有产品，公司整体毛利率有望迎来更大的提升空间。",
+    "event_type": "产能与产品",
+    "importance_score": 71,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响中期成长性、资本开支和竞争力",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "20f4272c1d1aedcc3f96",
+    "fetched_at": "2026-08-24T01:13:01"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-08-23T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:投资者关系活动记录表20260823",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608231828345475.html",
+    "content": "调研活动",
+    "event_type": "投资者交流",
+    "importance_score": 67,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "可用于更新经营趋势和市场预期",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "722786a9c71a6b9d738f",
+    "fetched_at": "2026-08-24T01:13:01"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
     "event_time": "2026-08-22T09:35:53",
     "source_type": "新闻-界面新闻",
     "title": "机构风向标 | 中际旭创3003082026年二季度已披露持股减少机构超1170家",
@@ -15,7 +141,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0457c65c029c6abf27ca",
-    "fetched_at": "2026-08-23T01:15:16"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -33,7 +159,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "49efab1dba0d87fd8ebf",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -51,7 +177,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "fcd8c9d282be833d2e29",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -69,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "e539ed3c54f0f2c51127",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -87,7 +213,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "2eeda6347b250c2a3d21",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -105,7 +231,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "22eaa58ffc83f9689ea5",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -123,7 +249,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "ed69e46615e59f023036",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -141,7 +267,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "42b3b4a94aa1b2a00d2d",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -159,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0de05fcca21e044f2d1c",
-    "fetched_at": "2026-08-23T01:15:15"
+    "fetched_at": "2026-08-24T01:13:01"
   },
   {
     "stock_code": "300308",
@@ -213,7 +339,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "6eba69848afa91f5ce26",
-    "fetched_at": "2026-08-23T01:15:10"
+    "fetched_at": "2026-08-24T01:12:58"
   },
   {
     "stock_code": "300308",
@@ -321,7 +447,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "b93973ceca0d20264761",
-    "fetched_at": "2026-08-23T01:15:10"
+    "fetched_at": "2026-08-24T01:12:58"
   },
   {
     "stock_code": "300502",
@@ -339,7 +465,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0c3dfdb3b75dc4b9b0db",
-    "fetched_at": "2026-08-23T01:15:10"
+    "fetched_at": "2026-08-24T01:12:58"
   },
   {
     "stock_code": "300502",
@@ -357,7 +483,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "1f3c331a086b0a0b916f",
-    "fetched_at": "2026-08-23T01:15:10"
+    "fetched_at": "2026-08-24T01:12:58"
   },
   {
     "stock_code": "300502",
@@ -375,7 +501,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "d9d21270f2460629bd69",
-    "fetched_at": "2026-08-23T01:15:10"
+    "fetched_at": "2026-08-24T01:12:58"
   },
   {
     "stock_code": "300502",
@@ -393,7 +519,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "020d1cdae16b21e37255",
-    "fetched_at": "2026-08-23T01:15:10"
+    "fetched_at": "2026-08-24T01:12:58"
   },
   {
     "stock_code": "300502",
@@ -411,7 +537,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "462ec071c8e10db1fd6e",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -429,7 +555,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "14676ea974389ecfc09e",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -447,7 +573,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7fbbc49bde8f88e43dbe",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -465,7 +591,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0310dd0d652a7df405dc",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -483,7 +609,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "400081ed0d3357045e2b",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -501,7 +627,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "f6aa6f055db8c4d51972",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -519,7 +645,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "ffad3a7b98f2da36bffb",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -537,7 +663,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "ae705bed6b6e7f057bd0",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
@@ -555,7 +681,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "26d354379561050c54d3",
-    "fetched_at": "2026-08-23T01:15:09"
+    "fetched_at": "2026-08-24T01:12:57"
   },
   {
     "stock_code": "300502",
