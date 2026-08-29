@@ -1,5 +1,23 @@
 [
   {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-08-29T00:25:00",
+    "source_type": "新闻-证券时报网",
+    "title": "SuperX斩获澳大利亚算力服务器订单",
+    "url": "http://finance.eastmoney.com/a/202608293858869116.html",
+    "content": "此外，SuperX与天孚通信300394设立的合资公司近期完成注册，补齐了全栈AI基础设施解决方案中的光互连模块。",
+    "event_type": "重大合同/订单",
+    "importance_score": 83,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响未来收入确认和订单能见度",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "21ee7ad91c32684432be",
+    "fetched_at": "2026-08-29T05:45:58"
+  },
+  {
     "stock_code": "300502",
     "company_name": "新易盛",
     "event_time": "2026-08-28T16:23:00",
@@ -15,7 +33,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "71c9c4bcf6a34cb3e019",
-    "fetched_at": "2026-08-28T09:42:26"
+    "fetched_at": "2026-08-29T05:45:52"
   },
   {
     "stock_code": "300394",
@@ -33,7 +51,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "04ca1744c363e688ebf0",
-    "fetched_at": "2026-08-28T09:42:29"
+    "fetched_at": "2026-08-29T05:45:58"
   },
   {
     "stock_code": "300308",
@@ -51,7 +69,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "a96aef387d784294b523",
-    "fetched_at": "2026-08-28T09:42:31"
+    "fetched_at": "2026-08-29T05:46:03"
   },
   {
     "stock_code": "300502",
@@ -69,7 +87,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "018e1c76b3a2886aa500",
-    "fetched_at": "2026-08-28T09:42:26"
+    "fetched_at": "2026-08-29T05:45:52"
   },
   {
     "stock_code": "300394",
@@ -87,7 +105,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "bf36369064b78720089d",
-    "fetched_at": "2026-08-28T09:42:29"
+    "fetched_at": "2026-08-29T05:45:58"
   },
   {
     "stock_code": "300394",
@@ -105,7 +123,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "2a99edc007abec525edd",
-    "fetched_at": "2026-08-28T09:42:29"
+    "fetched_at": "2026-08-29T05:45:58"
   },
   {
     "stock_code": "300308",
@@ -123,7 +141,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "221d3a1f4bfbc36efe90",
-    "fetched_at": "2026-08-28T09:42:31"
+    "fetched_at": "2026-08-29T05:46:03"
   },
   {
     "stock_code": "300308",
@@ -141,7 +159,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "481d43c4ec9e554b497a",
-    "fetched_at": "2026-08-28T09:42:31"
+    "fetched_at": "2026-08-29T05:46:03"
   },
   {
     "stock_code": "300502",
@@ -159,7 +177,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "549dc064ca9c6871f3d7",
-    "fetched_at": "2026-08-28T09:42:26"
+    "fetched_at": "2026-08-29T05:45:52"
   },
   {
     "stock_code": "300308",
@@ -177,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "10b162d6edd135214ba6",
-    "fetched_at": "2026-08-28T09:42:31"
+    "fetched_at": "2026-08-29T05:46:03"
   },
   {
     "stock_code": "300308",
@@ -195,7 +213,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "ec71df6a88ec115ed5eb",
-    "fetched_at": "2026-08-28T09:42:31"
+    "fetched_at": "2026-08-29T05:46:03"
   },
   {
     "stock_code": "300308",
@@ -213,7 +231,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "fe9ae7428003025973e6",
-    "fetched_at": "2026-08-28T09:42:30"
+    "fetched_at": "2026-08-29T05:46:03"
   },
   {
     "stock_code": "300308",
@@ -231,7 +249,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c67042f659f022e3e56c",
-    "fetched_at": "2026-08-28T09:42:30"
+    "fetched_at": "2026-08-29T05:46:03"
   },
   {
     "stock_code": "300394",
@@ -267,7 +285,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "f98c6114a03d2f822639",
-    "fetched_at": "2026-08-28T09:42:29"
+    "fetched_at": "2026-08-29T05:45:58"
   },
   {
     "stock_code": "300394",
@@ -285,7 +303,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "dc2fe1ea1f6dd23a489e",
-    "fetched_at": "2026-08-28T09:42:28"
+    "fetched_at": "2026-08-29T05:45:57"
   },
   {
     "stock_code": "300308",
