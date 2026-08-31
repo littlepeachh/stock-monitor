@@ -1,5 +1,59 @@
 [
   {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-31T09:38:00",
+    "source_type": "新闻-证券时报网",
+    "title": "创业板融资余额三连增",
+    "url": "http://finance.eastmoney.com/a/202608313859734851.html",
+    "content": "创业板融资余额变动排名 代码 简称 最新融资余额（亿元） 其间增减（亿元） 代码 简称 最新融资余额（亿元） 其间增减（亿元） 300502 新易盛 203.96 11.66 300760 迈瑞医疗 41.24 -5.61 300750 宁德时代 229.95 9.18 300433",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "eacc540db7d78a9006d3",
+    "fetched_at": "2026-08-31T03:51:14"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-08-31T09:38:00",
+    "source_type": "新闻-证券时报网",
+    "title": "创业板融资余额三连增",
+    "url": "http://finance.eastmoney.com/a/202608313859734851.html",
+    "content": "300750 宁德时代 229.95 9.18 300433 蓝思科技 65.57 -4.83 300476 胜宏科技 167.30 5.90 301358 湖南裕能 20.46 -1.15 300274 阳光电源 84.56 4.85 301489 思泉新材 5.89 -1.11 300394",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "f7728fef46e42b49c2a9",
+    "fetched_at": "2026-08-31T03:51:16"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-08-31T09:37:00",
+    "source_type": "新闻-证券时报网",
+    "title": "22股获融资客大手笔净买入",
+    "url": "http://finance.eastmoney.com/a/202608313859698567.html",
+    "content": "（数据宝） 8月28日融资客净买入金额排名 代码 简称 8月28日涨跌幅（%） 融资净买入额（万元） 最新融资余额（万元） 占流通市值比例（%） 所属行业 300308 中际旭创 -0.90 110833.47 3290094.61 3.45 通信 300502 新易盛 -2.47",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "9910f56fee7b5b181e27",
+    "fetched_at": "2026-08-31T03:51:14"
+  },
+  {
     "stock_code": "300394",
     "company_name": "天孚通信",
     "event_time": "2026-08-29T00:25:00",
@@ -15,7 +69,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "21ee7ad91c32684432be",
-    "fetched_at": "2026-08-30T03:49:09"
+    "fetched_at": "2026-08-31T03:51:16"
   },
   {
     "stock_code": "300502",
@@ -33,7 +87,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "71c9c4bcf6a34cb3e019",
-    "fetched_at": "2026-08-30T03:49:07"
+    "fetched_at": "2026-08-31T03:51:14"
   },
   {
     "stock_code": "300394",
@@ -51,7 +105,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "04ca1744c363e688ebf0",
-    "fetched_at": "2026-08-30T03:49:09"
+    "fetched_at": "2026-08-31T03:51:16"
   },
   {
     "stock_code": "300308",
