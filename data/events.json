@@ -1,5 +1,167 @@
 [
   {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T18:25:00",
+    "source_type": "新闻-证券时报网",
+    "title": "中际旭创：控股股东所持200万股公司股份解除质押",
+    "url": "http://finance.eastmoney.com/a/202609083868171081.html",
+    "content": "人民财讯9月8日电，中际旭创3003089月8日公告，近日，公司控股股东中际控股将其持有的200万股股份办理了解除质押业务，此次解除质押占其所持股份的比例为1.65%，占公司总股本的比例为0.17%。",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "3371a6ee35bad3f4e6dd",
+    "fetched_at": "2026-09-09T03:15:14"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T18:01:00",
+    "source_type": "新闻-财中社",
+    "title": "中际旭创：控股股东解除质押200万股",
+    "url": "http://finance.eastmoney.com/a/202609083868160125.html",
+    "content": "9月8日，中际旭创（300308/03308）发布公告，控股股东中际控股解除质押200万股，占其所持股份的1.65%及公司总股本的0.17%。 截至公告披露日，中际控股累计质押股份为260万股，占其持股总数的2.14%及公司总股本的0.22%。",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "511aeda68b4c08d3da71",
+    "fetched_at": "2026-09-09T03:15:14"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T17:47:36",
+    "source_type": "新闻-每日经济新闻",
+    "title": "中际旭创：控股股东200万股股票解除质押",
+    "url": "http://finance.eastmoney.com/a/202609083868149860.html",
+    "content": "9月8日，中际旭创300308.SZ)公告称，公司控股股东中际控股将其持有的200万股股份办理了解除质押业务，占其所持股份比例1.65%，占总股本比例0.17%。",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "d17959c1a4ec22b45275",
+    "fetched_at": "2026-09-09T03:15:14"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T17:44:40",
+    "source_type": "新闻-财联社",
+    "title": "中际旭创：特定股东办理股票质押及解除质押业务",
+    "url": "http://finance.eastmoney.com/a/202609083868148022.html",
+    "content": "中际旭创300308.SZ)公告称，公司特定股东益兴福将其持有的部分股票与华泰证券、中信证券办理股票质押交易业务，合计质押104.8万股，占其所持股份比例2.25%，占总股本比例0.09%；同时与中信证券办理解除质押20万股，占其所持股份比例0.43%。",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "05a83f3019d7d2cc75b3",
+    "fetched_at": "2026-09-09T03:15:14"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T17:44:31",
+    "source_type": "新闻-财联社",
+    "title": "中际旭创：控股股东中际控股解除200万股股票质押",
+    "url": "http://finance.eastmoney.com/a/202609083868135485.html",
+    "content": "中际旭创300308.SZ)公告称，公司控股股东中际控股将其持有的200万股股份办理了解除质押业务，占其所持股份比例1.65%，占总股本比例0.17%。截至公告日，中际控股及其一致行动人累计质押332.8万股，占其合计持股比例1.72%。",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "f6918acf9b35eb46ebef",
+    "fetched_at": "2026-09-09T03:15:14"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-09-08T17:32:00",
+    "source_type": "新闻-证券时报网",
+    "title": "主力动向：9月8日特大单净流入53.16亿元",
+    "url": "http://finance.eastmoney.com/a/202609083868139110.html",
+    "content": "计算机 688256 寒武纪 1058.99 -3.06 -4.82 电子 688498 源杰科技 1715.00 0.76 -4.40 电子 300857 协创数据 266.05 -2.91 -4.23 电子 603228 景旺电子 106.97 0.94 -4.00 电子 300394",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "cb5dbb6a528c43577c1c",
+    "fetched_at": "2026-09-09T03:15:11"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-09-08T17:31:00",
+    "source_type": "新闻-证券时报网",
+    "title": "中国AI 50概念下跌1.49%，主力资金净流出40股",
+    "url": "http://finance.eastmoney.com/a/202609083868339444.html",
+    "content": "3.69 -3265.30 688608 恒玄科技 -2.78 1.71 -3197.43 600536 中国软件 -1.34 1.83 -2657.74 000880 潍柴重机 -1.37 6.78 -2447.80 601100 恒立液压 1.09 0.38 -2416.71 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "07df16dc9ae99001c88d",
+    "fetched_at": "2026-09-09T03:15:09"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-09-08T17:28:00",
+    "source_type": "新闻-证券时报网",
+    "title": "9月8日盘后固定价格交易额10.24亿元",
+    "url": "http://finance.eastmoney.com/a/202609083868139826.html",
+    "content": "385.96 0.13 4.13 1594.01 600487 亨通光电 63.11 -1.39 20.48 1292.49 002384 东山精密 186.42 -2.17 6.12 1140.89 600664 哈药股份 7.75 -3.13 145.02 1123.89 300502",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "d92ef1f8045dbae58ab9",
+    "fetched_at": "2026-09-09T03:15:09"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-09-08T17:28:00",
+    "source_type": "新闻-证券时报网",
+    "title": "9月8日盘后固定价格交易额10.24亿元",
+    "url": "http://finance.eastmoney.com/a/202609083868139826.html",
+    "content": "688073 毕得医药 64.20 8.01 7.97 511.95 601869 长飞光纤 416.85 4.08 1.21 504.39 601899 紫金矿业 33.86 3.01 14.51 491.31 600176 中国巨石 41.39 -0.74 11.24 465.22 300394",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "1928cf60d12ee1ac38cb",
+    "fetched_at": "2026-09-09T03:15:11"
+  },
+  {
     "stock_code": "300502",
     "company_name": "新易盛",
     "event_time": "2026-09-08T09:40:00",
@@ -15,7 +177,61 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "17c86474814db6b73f3c",
-    "fetched_at": "2026-09-08T03:12:44"
+    "fetched_at": "2026-09-09T03:15:09"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:关于特定股东部分股票进行质押交易及解除质押的公告",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202609081829134442.html",
+    "content": "股份质押、冻结",
+    "event_type": "股东与资本运作",
+    "importance_score": 79,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "eb10833e9a4b5e85360d",
+    "fetched_at": "2026-09-09T03:15:13"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:关于控股股东部分股票解除质押的公告",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202609081829134440.html",
+    "content": "股份质押、冻结",
+    "event_type": "股东与资本运作",
+    "importance_score": 79,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "b2999c4f34535e6c5cc8",
+    "fetched_at": "2026-09-09T03:15:13"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-08T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:H股公告(翌日披露报表)",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202609081829137632.html",
+    "content": "其他",
+    "event_type": "一般动态",
+    "importance_score": 54,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "1f21c7d40745fa8cfc4f",
+    "fetched_at": "2026-09-09T03:15:13"
   },
   {
     "stock_code": "300502",
@@ -33,7 +249,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "10146a66efe8a9d96c5e",
-    "fetched_at": "2026-09-08T03:12:44"
+    "fetched_at": "2026-09-09T03:15:09"
   },
   {
     "stock_code": "300502",
@@ -51,7 +267,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "5f602ea9a78d29069a3c",
-    "fetched_at": "2026-09-08T03:12:44"
+    "fetched_at": "2026-09-09T03:15:09"
   },
   {
     "stock_code": "300502",
@@ -69,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "1b1f0b9ff7c1b42373c2",
-    "fetched_at": "2026-09-08T03:12:44"
+    "fetched_at": "2026-09-09T03:15:09"
   },
   {
     "stock_code": "300394",
@@ -87,7 +303,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "28fecd1b72f887c5d9ba",
-    "fetched_at": "2026-09-08T03:12:45"
+    "fetched_at": "2026-09-09T03:15:11"
   },
   {
     "stock_code": "300502",
@@ -213,7 +429,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "715cea4c22175c620a9e",
-    "fetched_at": "2026-09-08T03:12:44"
+    "fetched_at": "2026-09-09T03:15:09"
   },
   {
     "stock_code": "300394",
@@ -231,7 +447,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "8c8a34c3cf816ec52ab3",
-    "fetched_at": "2026-09-08T03:12:45"
+    "fetched_at": "2026-09-09T03:15:11"
   },
   {
     "stock_code": "300502",
@@ -249,7 +465,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "a3df0e8f2b228284fa4e",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300502",
@@ -267,7 +483,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "cc37a94431ee90c1aa10",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300502",
@@ -285,7 +501,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "f34678d591e74d89454f",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300502",
@@ -303,7 +519,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "6195c853098bd6cf8ea7",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300502",
@@ -321,7 +537,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "16c14864c60b7f839e12",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300502",
@@ -339,7 +555,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "331a9f22a7aef4dc04f2",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300502",
@@ -357,7 +573,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "305f903b111b53497475",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300502",
@@ -375,7 +591,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0dae9661be6e0b2a194e",
-    "fetched_at": "2026-09-08T03:12:43"
+    "fetched_at": "2026-09-09T03:15:08"
   },
   {
     "stock_code": "300308",
