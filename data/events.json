@@ -2,6 +2,24 @@
   {
     "stock_code": "300308",
     "company_name": "中际旭创",
+    "event_time": "2026-09-28T09:30:00",
+    "source_type": "新闻-证券时报网",
+    "title": "29股获杠杆资金净买入超5000万元",
+    "url": "http://finance.eastmoney.com/a/202609283884770875.html",
+    "content": "电子 000807 云铝股份 -2.07 10583.87 232298.25 2.57 有色金属 300862 蓝盾光电 -6.28 9691.47 95983.14 11.27 机械设备 301150 中一科技 -6.50 7518.01 49691.76 3.56 电力设备 300308",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "b809ed6d7c4b0f8cda01",
+    "fetched_at": "2026-09-28T03:50:18"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
     "event_time": "2026-09-26T12:54:13",
     "source_type": "新闻-大众证券报",
     "title": "中秋前夜公告：23天回购股票，耗资近50亿！300308，回购收官！",
@@ -15,7 +33,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "10280f1d33c1a49e6994",
-    "fetched_at": "2026-09-27T03:50:51"
+    "fetched_at": "2026-09-28T03:50:18"
   },
   {
     "stock_code": "300308",
@@ -33,7 +51,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "adb723bdda3434afbee4",
-    "fetched_at": "2026-09-27T03:50:51"
+    "fetched_at": "2026-09-28T03:50:18"
   },
   {
     "stock_code": "300308",
