@@ -1,5 +1,95 @@
 [
   {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-10-01T00:00:00",
+    "source_type": "公司公告",
+    "title": "中际旭创:关于协议受让北京中石伟业科技股份有限公司部分股权完成过户登记的公告",
+    "url": "https://data.eastmoney.com/notices/detail/300308/AN202609301830044481.html",
+    "content": "股权转让",
+    "event_type": "一般动态",
+    "importance_score": 54,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "e3213f0a59d413d2612e",
+    "fetched_at": "2026-10-01T04:20:18"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-30T20:20:59",
+    "source_type": "新闻-21世纪经济报道",
+    "title": "中际旭创、中石科技，双双公告",
+    "url": "http://finance.eastmoney.com/a/202609303887864197.html",
+    "content": "中际旭创300308.SZ)公告称，公司协议受让中石科技控股股东吴晓宁、叶露和HANWU合计持有的3137.25万股股份，占中石科技总股本的10.47%，转让价款合计17.47亿元。公司已于2026年9月29日完成过户登记，本次交易后合计持有中石科技10.47%股份。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "7f656f21c4f8e3a99407",
+    "fetched_at": "2026-10-01T04:20:18"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-09-30T17:27:00",
+    "source_type": "新闻-证券时报网",
+    "title": "主力动向：9月30日特大单净流出32.12亿元",
+    "url": "http://finance.eastmoney.com/a/202609303887781592.html",
+    "content": "（数据宝） 特大单净流入资金排名 代码 简称 收盘价（元） 涨跌幅（%） 特大单净流入（亿元） 行业 603127 昭衍新药 49.30 10.00 5.52 医药生物 300394 天孚通信 260.77 1.87 4.74 通信 603538 美诺华 28.59 10.00",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "5f0cdd9a6f12fe1537d1",
+    "fetched_at": "2026-10-01T04:20:17"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-09-30T16:24:57",
+    "source_type": "新闻-财联社",
+    "title": "中际旭创：协议受让中石科技10.47%股份完成过户登记",
+    "url": "http://finance.eastmoney.com/a/202609303887719246.html",
+    "content": "中际旭创300308.SZ)公告称，公司协议受让中石科技控股股东吴晓宁、叶露和HANWU合计持有的3137.25万股股份，占中石科技总股本的10.47%，转让价款合计17.47亿元。公司已于2026年9月29日完成过户登记，本次交易后合计持有中石科技10.47%股份。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "4dbeb5cdc8b42b2c05c8",
+    "fetched_at": "2026-10-01T04:20:18"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-09-30T16:23:00",
+    "source_type": "新闻-证券时报网",
+    "title": "9月30日18只股盘后交易额超500万元",
+    "url": "http://finance.eastmoney.com/a/202609303887719317.html",
+    "content": "香农芯创 153.24 -4.34 4.61 705.87 001246 C力勤 65.09 206.59 9.96 648.31 600127 金健米业 13.14 -1.65 49.03 644.25 603259 药明康德 167.34 4.16 3.69 617.48 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "7c5f2e5e76d127344842",
+    "fetched_at": "2026-10-01T04:20:15"
+  },
+  {
     "stock_code": "300502",
     "company_name": "新易盛",
     "event_time": "2026-09-30T09:20:00",
@@ -15,7 +105,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c62fac8cd9c335a8edc1",
-    "fetched_at": "2026-09-30T04:08:16"
+    "fetched_at": "2026-10-01T04:20:15"
   },
   {
     "stock_code": "300502",
@@ -33,7 +123,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "8c366d6031008eaca37e",
-    "fetched_at": "2026-09-30T04:08:16"
+    "fetched_at": "2026-10-01T04:20:15"
   },
   {
     "stock_code": "300394",
@@ -51,7 +141,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c81dc7d2dff5e0fba043",
-    "fetched_at": "2026-09-30T04:08:17"
+    "fetched_at": "2026-10-01T04:20:17"
   },
   {
     "stock_code": "300502",
@@ -87,7 +177,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "5d0cf636e7907975db94",
-    "fetched_at": "2026-09-30T04:08:17"
+    "fetched_at": "2026-10-01T04:20:17"
   },
   {
     "stock_code": "300502",
@@ -105,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "65354dc85fa71ec9c7f3",
-    "fetched_at": "2026-09-30T04:08:16"
+    "fetched_at": "2026-10-01T04:20:15"
   },
   {
     "stock_code": "300394",
@@ -123,7 +213,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "02866022b441c126c233",
-    "fetched_at": "2026-09-30T04:08:17"
+    "fetched_at": "2026-10-01T04:20:17"
   },
   {
     "stock_code": "300308",
@@ -177,7 +267,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "39764d871e3224b35465",
-    "fetched_at": "2026-09-30T04:08:17"
+    "fetched_at": "2026-10-01T04:20:17"
   },
   {
     "stock_code": "300394",
@@ -213,7 +303,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "45d42d0bf6c16baafa41",
-    "fetched_at": "2026-09-30T04:08:18"
+    "fetched_at": "2026-10-01T04:20:18"
   },
   {
     "stock_code": "300308",
@@ -231,7 +321,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "516a097e92cde289e911",
-    "fetched_at": "2026-09-30T04:08:18"
+    "fetched_at": "2026-10-01T04:20:18"
   },
   {
     "stock_code": "300308",
@@ -249,7 +339,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c1447285590b373582b1",
-    "fetched_at": "2026-09-30T04:08:18"
+    "fetched_at": "2026-10-01T04:20:18"
   },
   {
     "stock_code": "300394",
@@ -321,7 +411,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "a3c324b6e59c364d9eb3",
-    "fetched_at": "2026-09-30T04:08:16"
+    "fetched_at": "2026-10-01T04:20:15"
   },
   {
     "stock_code": "300394",
@@ -339,7 +429,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "484fc3897f99c339f084",
-    "fetched_at": "2026-09-30T04:08:17"
+    "fetched_at": "2026-10-01T04:20:17"
   },
   {
     "stock_code": "300308",
@@ -375,7 +465,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "90b80a02ac229c1fe540",
-    "fetched_at": "2026-09-30T04:08:16"
+    "fetched_at": "2026-10-01T04:20:15"
   },
   {
     "stock_code": "300394",
@@ -393,7 +483,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "38b83f6a7eed67b298eb",
-    "fetched_at": "2026-09-30T04:08:17"
+    "fetched_at": "2026-10-01T04:20:17"
   },
   {
     "stock_code": "300308",
@@ -429,7 +519,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0e2fc327532d02b7a1e8",
-    "fetched_at": "2026-09-30T04:08:18"
+    "fetched_at": "2026-10-01T04:20:18"
   },
   {
     "stock_code": "300308",
@@ -447,7 +537,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "ea844c641161330e3bd1",
-    "fetched_at": "2026-09-30T04:08:18"
+    "fetched_at": "2026-10-01T04:20:18"
   },
   {
     "stock_code": "300308",
