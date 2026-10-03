@@ -2,6 +2,24 @@
   {
     "stock_code": "300308",
     "company_name": "中际旭创",
+    "event_time": "2026-10-03T08:40:43",
+    "source_type": "新闻-证券时报·e公司",
+    "title": "万亿CPO龙头收购A股公司股权有新进展！",
+    "url": "http://finance.eastmoney.com/a/202610033888457244.html",
+    "content": "日前，中际旭创（300308）宣布协议受让中石科技（300684）部分股权完成过户登记。 中际旭创9月30日晚间发布的公告显示，受让上市公司中石科技的控股股东吴晓宁、叶露和HAN WU（吴憾）持有的中石科技无限售条件流通股的事项有了新进展。",
+    "event_type": "控制权/并购重组",
+    "importance_score": 95,
+    "importance_level": "紧急",
+    "sentiment": "中性",
+    "impact": "可能改变公司资产结构、治理或估值框架",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "9493ce8070b463d1026d",
+    "fetched_at": "2026-10-03T03:55:57"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
     "event_time": "2026-10-01T00:00:00",
     "source_type": "公司公告",
     "title": "中际旭创:关于协议受让北京中石伟业科技股份有限公司部分股权完成过户登记的公告",
@@ -15,7 +33,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "e3213f0a59d413d2612e",
-    "fetched_at": "2026-10-02T04:13:13"
+    "fetched_at": "2026-10-03T03:55:57"
   },
   {
     "stock_code": "300308",
@@ -51,7 +69,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "5f0cdd9a6f12fe1537d1",
-    "fetched_at": "2026-10-02T04:13:12"
+    "fetched_at": "2026-10-03T03:55:56"
   },
   {
     "stock_code": "300308",
@@ -69,7 +87,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "4dbeb5cdc8b42b2c05c8",
-    "fetched_at": "2026-10-02T04:13:13"
+    "fetched_at": "2026-10-03T03:55:57"
   },
   {
     "stock_code": "300502",
@@ -87,7 +105,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7c5f2e5e76d127344842",
-    "fetched_at": "2026-10-02T04:13:11"
+    "fetched_at": "2026-10-03T03:55:55"
   },
   {
     "stock_code": "300502",
@@ -105,7 +123,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c62fac8cd9c335a8edc1",
-    "fetched_at": "2026-10-02T04:13:11"
+    "fetched_at": "2026-10-03T03:55:55"
   },
   {
     "stock_code": "300502",
@@ -123,7 +141,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "8c366d6031008eaca37e",
-    "fetched_at": "2026-10-02T04:13:11"
+    "fetched_at": "2026-10-03T03:55:55"
   },
   {
     "stock_code": "300394",
@@ -141,7 +159,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c81dc7d2dff5e0fba043",
-    "fetched_at": "2026-10-02T04:13:12"
+    "fetched_at": "2026-10-03T03:55:56"
   },
   {
     "stock_code": "300502",
