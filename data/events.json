@@ -1,5 +1,23 @@
 [
   {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-10-03T19:26:47",
+    "source_type": "新闻-时代周报",
+    "title": "川渝上市公司前三季度股价图鉴：汽车白酒等待价值重估，半导体新材料成“领头羊”",
+    "url": "http://finance.eastmoney.com/a/202610033888497981.html",
+    "content": "市值方面，新易盛（300502.SZ）仍位居四川省上市公司前列，但前三季度涨幅为26.56%，未进入涨幅前十。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "8be44e1c88272c342470",
+    "fetched_at": "2026-10-04T04:28:19"
+  },
+  {
     "stock_code": "300308",
     "company_name": "中际旭创",
     "event_time": "2026-10-03T08:40:43",
@@ -15,7 +33,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "9493ce8070b463d1026d",
-    "fetched_at": "2026-10-03T03:55:57"
+    "fetched_at": "2026-10-04T04:28:25"
   },
   {
     "stock_code": "300308",
@@ -33,7 +51,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "e3213f0a59d413d2612e",
-    "fetched_at": "2026-10-03T03:55:57"
+    "fetched_at": "2026-10-04T04:28:25"
   },
   {
     "stock_code": "300308",
