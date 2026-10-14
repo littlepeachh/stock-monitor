@@ -1,5 +1,221 @@
 [
   {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-10-14T09:42:00",
+    "source_type": "新闻-证券时报网",
+    "title": "创业板公司融资余额三连降 其间累计减少97.30亿元",
+    "url": "http://finance.eastmoney.com/a/202610143895139132.html",
+    "content": "数据宝） 创业板融资余额变动排名 代码 简称 最新融资余额（亿元） 其间增减（亿元） 代码 简称 最新融资余额（亿元） 其间增减（亿元） 301660 C粤芯 2.80 2.80 300308 中际旭创 292.79 -27.03 300413 芒果超媒 8.67 1.96 300502",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "e9b9a8b37976c5bd1cf1",
+    "fetched_at": "2026-10-14T03:40:08"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-10-14T09:42:00",
+    "source_type": "新闻-证券时报网",
+    "title": "创业板公司融资余额三连降 其间累计减少97.30亿元",
+    "url": "http://finance.eastmoney.com/a/202610143895139132.html",
+    "content": "（数据宝） 创业板融资余额变动排名 代码 简称 最新融资余额（亿元） 其间增减（亿元） 代码 简称 最新融资余额（亿元） 其间增减（亿元） 301660 C粤芯 2.80 2.80 300308 中际旭创 292.79 -27.03 300413 芒果超媒 8.67 1.96",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "中性",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "1bcdccbacb0a60eff64b",
+    "fetched_at": "2026-10-14T03:40:11"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-10-13T23:59:00",
+    "source_type": "新闻-证券时报网",
+    "title": "6只个股大宗交易超5000万元",
+    "url": "http://finance.eastmoney.com/a/202610133894522773.html",
+    "content": "26.42 494.42 10234.58 1 20.70 -21.65 688003 天准科技 2.11 66.68 190.00 9925.60 1 52.24 -21.66 688268 华特气体 0.98 114.91 60.40 6255.03 17 103.56 -9.88 300308",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "ecb70c63ed55bc946ceb",
+    "fetched_at": "2026-10-14T03:40:11"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-10-13T16:47:00",
+    "source_type": "新闻-证券时报网",
+    "title": "通信行业资金流出榜：新易盛等8股净流出资金超亿元",
+    "url": "http://finance.eastmoney.com/a/202610133894200050.html",
+    "content": "836.76 002881 美格智能 0.47 3.44 824.98 002902 铭普光磁 4.86 9.84 743.42 688182 灿勤科技 0.66 0.97 657.63 通信行业资金流出榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 300502",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "247989a269bcf886215c",
+    "fetched_at": "2026-10-14T03:40:08"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-10-13T16:47:00",
+    "source_type": "新闻-证券时报网",
+    "title": "18股特大单净流入资金超2亿元",
+    "url": "http://finance.eastmoney.com/a/202610133894194258.html",
+    "content": "特大单净流出资金排名 代码 简称 收盘价（元） 涨跌幅（%） 特大单净流入（亿元） 行业 688825 长鑫科技 46.99 -2.79 -5.74 电子 300750 宁德时代 289.10 -3.11 -5.16 电力设备 601318 中国平安 51.69 -2.91 -4.87 非银金融 300502",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "02a6c1a2a53e17ca86a1",
+    "fetched_at": "2026-10-14T03:40:08"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-10-13T16:47:00",
+    "source_type": "新闻-证券时报网",
+    "title": "通信行业资金流出榜：新易盛等8股净流出资金超亿元",
+    "url": "http://finance.eastmoney.com/a/202610133894200050.html",
+    "content": "（数据宝） 通信行业资金流入榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 300394 天孚通信 7.48 3.85 57985.79 300308 中际旭创 1.45 2.79 27780.07 002281 光迅科技 4.06 4.45 24874.20",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "3d31d48b373e9b69e5b0",
+    "fetched_at": "2026-10-14T03:40:10"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-10-13T16:47:00",
+    "source_type": "新闻-证券时报网",
+    "title": "18股特大单净流入资金超2亿元",
+    "url": "http://finance.eastmoney.com/a/202610133894194258.html",
+    "content": "（数据宝） 特大单净流入资金排名 代码 简称 收盘价（元） 涨跌幅（%） 特大单净流入（亿元） 行业 301660 C粤芯-U 38.80 223.06 13.52 电子 300394 天孚通信 246.70 7.48 7.43 通信 002354 天娱数科 7.77 6.44",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "d42120dcf432f8e6054b",
+    "fetched_at": "2026-10-14T03:40:10"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-10-13T16:47:00",
+    "source_type": "新闻-证券时报网",
+    "title": "通信行业资金流出榜：新易盛等8股净流出资金超亿元",
+    "url": "http://finance.eastmoney.com/a/202610133894200050.html",
+    "content": "（数据宝） 通信行业资金流入榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 300394 天孚通信 7.48 3.85 57985.79 300308 中际旭创 1.45 2.79 27780.07 002281 光迅科技 4.06 4.45 24874.20",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "453fb7ccc92b678f928c",
+    "fetched_at": "2026-10-14T03:40:11"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-10-13T16:33:00",
+    "source_type": "新闻-证券时报网",
+    "title": "F5G概念上涨2.29%，6股主力资金净流入超5000万元",
+    "url": "http://finance.eastmoney.com/a/202610133894182254.html",
+    "content": "（数据宝） F5G概念资金流入榜  代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 主力资金净流入比率（%） 300308 中际旭创 1.45 2.79 27780.07 1.26 002281 光迅科技 4.06 4.45 24874.20 5.06",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "529583e9754f52f7398f",
+    "fetched_at": "2026-10-14T03:40:11"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-10-13T16:30:00",
+    "source_type": "新闻-证券时报网",
+    "title": "10月13日3509只股发生盘后交易，慧辰股份、新益昌、中际旭创等盘后交易额居前",
+    "url": "http://finance.eastmoney.com/a/202610133894182021.html",
+    "content": "九阳股份 17.67 6.19 63.40 1120.28 001328 登康口腔 31.07 -3.24 30.02 932.72 600206 有研新材 44.12 -7.89 16.70 736.80 603986 兆易创新 306.22 -1.49 2.40 734.93 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "04fe7a1ae66271534914",
+    "fetched_at": "2026-10-14T03:40:08"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-10-13T16:30:00",
+    "source_type": "新闻-证券时报网",
+    "title": "10月13日3509只股发生盘后交易，慧辰股份、新益昌、中际旭创等盘后交易额居前",
+    "url": "http://finance.eastmoney.com/a/202610133894182021.html",
+    "content": "002384 东山精密 139.75 2.83 4.15 579.96 002354 天娱数科 7.77 6.44 68.68 533.64 600127 金健米业 14.55 4.68 36.08 524.96 688825 长鑫科技 46.99 -2.79 11.12 522.60 300394",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "93d7b055248153ad578e",
+    "fetched_at": "2026-10-14T03:40:10"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-10-13T16:30:00",
+    "source_type": "新闻-证券时报网",
+    "title": "10月13日3509只股发生盘后交易，慧辰股份、新益昌、中际旭创等盘后交易额居前",
+    "url": "http://finance.eastmoney.com/a/202610133894182021.html",
+    "content": "（数据宝） 10月13日盘后交易额排名 代码 简称 收盘价（元） 涨跌幅（%） 盘后成交量（万股） 盘后交易额（万元） 688500 慧辰股份 30.43 1.70 55.40 1685.82 688383 新益昌 107.79 1.00 15.08 1625.47 300308",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "1370d1c3aabf7941abc4",
+    "fetched_at": "2026-10-14T03:40:11"
+  },
+  {
     "stock_code": "300308",
     "company_name": "中际旭创",
     "event_time": "2026-10-13T10:37:10",
@@ -15,7 +231,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "938f3122be22243a5127",
-    "fetched_at": "2026-10-13T05:36:57"
+    "fetched_at": "2026-10-14T03:40:11"
   },
   {
     "stock_code": "300394",
@@ -33,7 +249,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "298dc9a3ecd5c09196ca",
-    "fetched_at": "2026-10-13T05:36:56"
+    "fetched_at": "2026-10-14T03:40:10"
   },
   {
     "stock_code": "300502",
@@ -51,7 +267,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "1d4d33bd7ccda9e028b8",
-    "fetched_at": "2026-10-13T05:36:55"
+    "fetched_at": "2026-10-14T03:40:08"
   },
   {
     "stock_code": "300308",
@@ -69,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "28aed1e337c9deac81e6",
-    "fetched_at": "2026-10-13T05:36:57"
+    "fetched_at": "2026-10-14T03:40:11"
   },
   {
     "stock_code": "300502",
@@ -87,7 +303,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "544e24cc3b1268291b57",
-    "fetched_at": "2026-10-13T05:36:55"
+    "fetched_at": "2026-10-14T03:40:08"
   },
   {
     "stock_code": "300394",
@@ -105,7 +321,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "53d1b496885f69f278f3",
-    "fetched_at": "2026-10-13T05:36:56"
+    "fetched_at": "2026-10-14T03:40:10"
   },
   {
     "stock_code": "300308",
@@ -141,7 +357,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "4f5410d6af3a3c5ea923",
-    "fetched_at": "2026-10-13T05:36:55"
+    "fetched_at": "2026-10-14T03:40:08"
   },
   {
     "stock_code": "300308",
@@ -159,7 +375,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0aea2e16c37bab109725",
-    "fetched_at": "2026-10-13T05:36:57"
+    "fetched_at": "2026-10-14T03:40:11"
   },
   {
     "stock_code": "300308",
