@@ -2,6 +2,114 @@
   {
     "stock_code": "300502",
     "company_name": "新易盛",
+    "event_time": "2026-11-05T09:27:00",
+    "source_type": "新闻-证券时报网",
+    "title": "14股获杠杆资金净买入超亿元",
+    "url": "http://finance.eastmoney.com/a/202611053922864973.html",
+    "content": "2.48 电子 002371 北方华创 10.00 35515.96 233578.45 0.60 电子 002384 东山精密 7.04 34409.32 739716.12 5.66 电子 002242 九阳股份 3.50 30872.36 76687.85 4.25 家用电器 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "a1ca5dddbe877301fe0d",
+    "fetched_at": "2026-11-05T05:16:54"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-11-04T17:29:20",
+    "source_type": "新闻-第一财经",
+    "title": "多只AI基础设施股大涨！长鑫科技市值逼近3万亿元关口",
+    "url": "http://finance.eastmoney.com/a/202611043922044393.html",
+    "content": "光模块厂商“易中天”中，中际旭创（300308.SZ）涨11.07%，新易盛（300502.SZ）涨13.35%，天孚通信（300394.SZ）涨10.02%。 另一些市场关注度较大的半导体股也飘红。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "4b39f83107bdb0bef657",
+    "fetched_at": "2026-11-05T05:16:55"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-11-04T16:56:49",
+    "source_type": "新闻-证券时报网",
+    "title": "通信行业今日净流入资金72.02亿元，新易盛等10股净流入资金超亿元",
+    "url": "http://finance.eastmoney.com/a/202611043922005051.html",
+    "content": "通信行业资金流入榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 300502 新易盛 13.35 9.10 245516.18 300308 中际旭创 11.07 5.51 173500.16 600487 亨通光电 7.59 7.81 54157.44 300394",
+    "event_type": "行业/市场新闻",
+    "importance_score": 59,
+    "importance_level": "一般",
+    "sentiment": "中性",
+    "impact": "需结合公司产业链位置判断间接影响",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "649bb1019a4ce4489f79",
+    "fetched_at": "2026-11-05T05:16:55"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-11-04T14:51:46",
+    "source_type": "新闻-21世纪经济报道",
+    "title": "通信设备概念盘中走强，中际旭创澄清砍单与评级下调传言|异动情报",
+    "url": "http://finance.eastmoney.com/a/202611043921899983.html",
+    "content": "11月4日，通信设备盘中上涨4.31%，相关成分股中，新易盛（300502）上涨8.44%，信科移动（688387）上涨8.32%，移远通信（603236）上涨7.37%，长盈通（688143）上涨7.36%，中际旭创（300308）上涨7.01%。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "偏负面",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "b5e93745a8628ee25c91",
+    "fetched_at": "2026-11-05T05:16:54"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-11-04T14:51:46",
+    "source_type": "新闻-21世纪经济报道",
+    "title": "通信设备概念盘中走强，中际旭创澄清砍单与评级下调传言|异动情报",
+    "url": "http://finance.eastmoney.com/a/202611043921899983.html",
+    "content": "11月4日，通信设备盘中上涨4.31%，相关成分股中，新易盛（300502）上涨8.44%，信科移动（688387）上涨8.32%，移远通信（603236）上涨7.37%，长盈通（688143）上涨7.36%，中际旭创（300308）上涨7.01%。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "偏负面",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "5149a717f0c7777b0563",
+    "fetched_at": "2026-11-05T05:17:13"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-11-04T14:48:50",
+    "source_type": "新闻-北京商报",
+    "title": "中际旭创A股盘中涨超13%",
+    "url": "http://finance.eastmoney.com/a/202611043921899729.html",
+    "content": "11月4日午后，在市场带动下，中际旭创（300308）股价也持续拉升，盘中涨超13%。 截至北京商报记者发稿，中际旭创涨幅12.29%，报539.23元/股。 当日，中际旭创H股股价也出现大涨，盘中涨超9%。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "c32dd518844e084b0bd7",
+    "fetched_at": "2026-11-05T05:17:13"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
     "event_time": "2026-11-04T09:31:00",
     "source_type": "新闻-证券时报网",
     "title": "创业板融资余额18连降",
@@ -15,7 +123,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "b82c840753e3e4316641",
-    "fetched_at": "2026-11-04T04:57:19"
+    "fetched_at": "2026-11-05T05:16:54"
   },
   {
     "stock_code": "300308",
@@ -69,7 +177,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "4c978d692446fb89b852",
-    "fetched_at": "2026-11-04T04:57:22"
+    "fetched_at": "2026-11-05T05:17:13"
   },
   {
     "stock_code": "300308",
@@ -87,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c2e1bac3a77f9236be52",
-    "fetched_at": "2026-11-04T04:57:22"
+    "fetched_at": "2026-11-05T05:17:13"
   },
   {
     "stock_code": "300502",
@@ -105,7 +213,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "e34cdd02f0d3432361fb",
-    "fetched_at": "2026-11-04T04:57:19"
+    "fetched_at": "2026-11-05T05:16:54"
   },
   {
     "stock_code": "300502",
@@ -123,7 +231,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c682a92c20205ef92dea",
-    "fetched_at": "2026-11-04T04:57:19"
+    "fetched_at": "2026-11-05T05:16:54"
   },
   {
     "stock_code": "300502",
@@ -159,7 +267,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "341b7e9346dd95104306",
-    "fetched_at": "2026-11-04T04:57:20"
+    "fetched_at": "2026-11-05T05:16:55"
   },
   {
     "stock_code": "300308",
@@ -195,7 +303,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "44eab8d7d42bfac2a418",
-    "fetched_at": "2026-11-04T04:57:19"
+    "fetched_at": "2026-11-05T05:16:54"
   },
   {
     "stock_code": "300502",
@@ -249,7 +357,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "eac2812e06b01ee10f87",
-    "fetched_at": "2026-11-04T04:57:17"
+    "fetched_at": "2026-11-05T05:16:51"
   },
   {
     "stock_code": "300308",
@@ -267,7 +375,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "55015b86b93cce34d381",
-    "fetched_at": "2026-11-04T04:57:21"
+    "fetched_at": "2026-11-05T05:17:12"
   },
   {
     "stock_code": "300502",
@@ -285,7 +393,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "21446df238f96fbddae1",
-    "fetched_at": "2026-11-04T04:57:19"
+    "fetched_at": "2026-11-05T05:16:54"
   },
   {
     "stock_code": "300394",
@@ -303,7 +411,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "fbe9264d0bb35c58fe54",
-    "fetched_at": "2026-11-04T04:57:20"
+    "fetched_at": "2026-11-05T05:16:55"
   },
   {
     "stock_code": "300502",
@@ -339,7 +447,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "ed021ac4857baa839412",
-    "fetched_at": "2026-11-04T04:57:20"
+    "fetched_at": "2026-11-05T05:16:55"
   },
   {
     "stock_code": "300308",
@@ -411,7 +519,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0ab8e662c7b48075fdae",
-    "fetched_at": "2026-11-04T04:57:21"
+    "fetched_at": "2026-11-05T05:17:12"
   },
   {
     "stock_code": "300502",
@@ -12832,59 +12940,5 @@
     "priority": "high",
     "event_id": "8992af6f163c662b5bee",
     "fetched_at": "2026-08-07T05:53:49"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-06T23:55:00",
-    "source_type": "新闻-证券时报网",
-    "title": "8只个股大宗交易超5000万元",
-    "url": "http://finance.eastmoney.com/a/202608063834220434.html",
-    "content": "221.70 47847.29 1 215.82 -10.00 300750 宁德时代 -4.24 388.00 121.00 46923.58 2 387.80 -0.05 688825 长鑫科技 -4.31 51.96 828.08 43027.00 7 51.96 0.00 300308",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "35840391c47be0d11634",
-    "fetched_at": "2026-08-09T04:47:22"
-  },
-  {
-    "stock_code": "300394",
-    "company_name": "天孚通信",
-    "event_time": "2026-08-06T16:55:00",
-    "source_type": "新闻-证券时报网",
-    "title": "通信行业资金流入榜：天孚通信、光库科技等净流入资金居前",
-    "url": "http://finance.eastmoney.com/a/202608063833919652.html",
-    "content": "（数据宝） 通信行业资金流入榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 300394 天孚通信 3.89 6.22 115746.60 300620 光库科技 5.63 8.37 53424.12 002281 光迅科技 2.30 6.46 42673.14",
-    "event_type": "行业/市场新闻",
-    "importance_score": 59,
-    "importance_level": "一般",
-    "sentiment": "中性",
-    "impact": "需结合公司产业链位置判断间接影响",
-    "industry": "光器件",
-    "priority": "high",
-    "event_id": "ef6c565854f386ef223f",
-    "fetched_at": "2026-08-06T10:14:57"
-  },
-  {
-    "stock_code": "300394",
-    "company_name": "天孚通信",
-    "event_time": "2026-08-06T16:55:00",
-    "source_type": "新闻-证券时报网",
-    "title": "强势股追踪 主力资金连续5日净流入145股",
-    "url": "http://finance.eastmoney.com/a/202608063833915252.html",
-    "content": "连续5日或以上主力资金净流入个股排名 证券代码 证券简称 主力资金净流入天数 主力资金净流入金额（亿元） 主力资金净流入比例（%） 累计涨跌幅（%） 300394 天孚通信 5 61.71 9.05 40.71 002428 云南锗业 5 28.74 13.29 47.22 300620",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光器件",
-    "priority": "high",
-    "event_id": "b87edc6ac3c726278c25",
-    "fetched_at": "2026-08-09T04:47:19"
   }
 ]
