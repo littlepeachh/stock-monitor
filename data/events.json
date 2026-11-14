@@ -1,5 +1,95 @@
 [
   {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-11-13T16:28:00",
+    "source_type": "新闻-证券时报网",
+    "title": "11月13日10只股盘后交易额超500万元",
+    "url": "http://finance.eastmoney.com/a/202611133930713293.html",
+    "content": "紫金矿业 26.38 -1.49 18.98 500.69 000651 格力电器 39.96 2.75 12.06 482.03 300750 宁德时代 237.70 -0.96 2.01 477.78 002827 高争民爆 51.25 -4.21 9.21 472.01 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "0ee56f44e6f55b7eab04",
+    "fetched_at": "2026-11-14T05:03:16"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-11-13T15:54:58",
+    "source_type": "新闻-央广财经",
+    "title": "11月13日A股收评：创业板指高开低走收跌3.32% 算力硬件概念集体下挫",
+    "url": "http://finance.eastmoney.com/a/202611133930690850.html",
+    "content": "下跌板块中，算力硬件概念集体下挫，CPO、PCB方向领跌，景旺电子（603228.SH）跌停，天孚通信（300394.SZ）、源杰科技（688498.SH）、新易盛（300502.SZ）等纷纷走弱。（央广财经）",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "4b688577df2199dd7bd3",
+    "fetched_at": "2026-11-14T05:03:16"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-11-13T15:54:58",
+    "source_type": "新闻-央广财经",
+    "title": "11月13日A股收评：创业板指高开低走收跌3.32% 算力硬件概念集体下挫",
+    "url": "http://finance.eastmoney.com/a/202611133930690850.html",
+    "content": "下跌板块中，算力硬件概念集体下挫，CPO、PCB方向领跌，景旺电子（603228.SH）跌停，天孚通信（300394.SZ）、源杰科技（688498.SH）、新易盛（300502.SZ）等纷纷走弱。（央广财经）",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "a74838f4eeef191ae29b",
+    "fetched_at": "2026-11-14T05:03:19"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-11-13T11:48:27",
+    "source_type": "新闻-央广财经",
+    "title": "11月13日A股午盘走势分化：沪指涨0.22% 创业板指跌超1% 多只银行股创出历史新高",
+    "url": "http://finance.eastmoney.com/a/202611133930632681.html",
+    "content": "下跌板块方面，CPO概念股集体走弱，天孚通信（300394.SZ）、源杰科技（688498.SH）、新易盛（300502.SZ）等个股均出现明显下跌。 截至午间收盘，沪指涨0.22%，深成指跌0.56%，创业板指跌1.47%，科创50指数跌0.48%。（央广财经）",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "6ff1734d1044af21a964",
+    "fetched_at": "2026-11-14T05:03:16"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-11-13T11:48:27",
+    "source_type": "新闻-央广财经",
+    "title": "11月13日A股午盘走势分化：沪指涨0.22% 创业板指跌超1% 多只银行股创出历史新高",
+    "url": "http://finance.eastmoney.com/a/202611133930632681.html",
+    "content": "下跌板块方面，CPO概念股集体走弱，天孚通信（300394.SZ）、源杰科技（688498.SH）、新易盛（300502.SZ）等个股均出现明显下跌。 截至午间收盘，沪指涨0.22%，深成指跌0.56%，创业板指跌1.47%，科创50指数跌0.48%。（央广财经）",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "9b6a2b37b8126c69a70c",
+    "fetched_at": "2026-11-14T05:03:19"
+  },
+  {
     "stock_code": "300394",
     "company_name": "天孚通信",
     "event_time": "2026-11-13T11:36:00",
@@ -15,7 +105,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "2b86f6294da7d74865ea",
-    "fetched_at": "2026-11-13T05:14:04"
+    "fetched_at": "2026-11-14T05:03:19"
   },
   {
     "stock_code": "300308",
@@ -33,7 +123,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "5c1d671d7d9bc58f1615",
-    "fetched_at": "2026-11-13T05:14:04"
+    "fetched_at": "2026-11-14T05:03:20"
   },
   {
     "stock_code": "300394",
@@ -51,7 +141,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "6e358fabdb4eeb7f3a55",
-    "fetched_at": "2026-11-13T05:14:04"
+    "fetched_at": "2026-11-14T05:03:19"
   },
   {
     "stock_code": "300394",
@@ -69,7 +159,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "47437be320810d576128",
-    "fetched_at": "2026-11-13T05:14:04"
+    "fetched_at": "2026-11-14T05:03:19"
   },
   {
     "stock_code": "300308",
@@ -87,7 +177,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "6ae201c2f11c4de8a2f6",
-    "fetched_at": "2026-11-13T05:14:05"
+    "fetched_at": "2026-11-14T05:03:20"
   },
   {
     "stock_code": "300502",
@@ -123,7 +213,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c97dd39155a7a6a3925c",
-    "fetched_at": "2026-11-13T05:14:02"
+    "fetched_at": "2026-11-14T05:03:18"
   },
   {
     "stock_code": "300502",
@@ -177,7 +267,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "72dac74d0ebaf9b5d0b3",
-    "fetched_at": "2026-11-13T05:14:05"
+    "fetched_at": "2026-11-14T05:03:20"
   },
   {
     "stock_code": "300502",
@@ -195,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "a6fd039c5617067b4af6",
-    "fetched_at": "2026-11-13T05:14:01"
+    "fetched_at": "2026-11-14T05:03:16"
   },
   {
     "stock_code": "300308",
@@ -213,7 +303,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "4031c0981fa0f7e07bfd",
-    "fetched_at": "2026-11-13T05:14:05"
+    "fetched_at": "2026-11-14T05:03:20"
   },
   {
     "stock_code": "300394",
