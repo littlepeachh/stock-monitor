@@ -15,7 +15,25 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "0ee56f44e6f55b7eab04",
-    "fetched_at": "2026-11-14T05:03:16"
+    "fetched_at": "2026-11-15T04:56:55"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-11-13T16:28:00",
+    "source_type": "新闻-证券时报网",
+    "title": "11月13日10只股盘后交易额超500万元",
+    "url": "http://finance.eastmoney.com/a/202611133930713293.html",
+    "content": "688256 寒武纪 978.88 0.60 0.36 348.09 600206 有研新材 37.36 -3.21 8.90 332.50 603993 洛阳钼业 12.88 -3.45 25.71 331.14 688041 海光信息 203.30 0.46 1.60 325.79 300394",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "8aaa14f44b216195e0ac",
+    "fetched_at": "2026-11-15T04:56:57"
   },
   {
     "stock_code": "300502",
@@ -33,7 +51,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "4b688577df2199dd7bd3",
-    "fetched_at": "2026-11-14T05:03:16"
+    "fetched_at": "2026-11-15T04:56:55"
   },
   {
     "stock_code": "300394",
@@ -51,7 +69,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "a74838f4eeef191ae29b",
-    "fetched_at": "2026-11-14T05:03:19"
+    "fetched_at": "2026-11-15T04:56:57"
   },
   {
     "stock_code": "300502",
@@ -69,7 +87,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "6ff1734d1044af21a964",
-    "fetched_at": "2026-11-14T05:03:16"
+    "fetched_at": "2026-11-15T04:56:55"
   },
   {
     "stock_code": "300394",
@@ -87,7 +105,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "9b6a2b37b8126c69a70c",
-    "fetched_at": "2026-11-14T05:03:19"
+    "fetched_at": "2026-11-15T04:56:57"
   },
   {
     "stock_code": "300394",
@@ -105,7 +123,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "2b86f6294da7d74865ea",
-    "fetched_at": "2026-11-14T05:03:19"
+    "fetched_at": "2026-11-15T04:56:57"
   },
   {
     "stock_code": "300308",
@@ -141,7 +159,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "6e358fabdb4eeb7f3a55",
-    "fetched_at": "2026-11-14T05:03:19"
+    "fetched_at": "2026-11-15T04:56:57"
   },
   {
     "stock_code": "300394",
@@ -159,7 +177,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "47437be320810d576128",
-    "fetched_at": "2026-11-14T05:03:19"
+    "fetched_at": "2026-11-15T04:56:57"
   },
   {
     "stock_code": "300308",
@@ -177,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "6ae201c2f11c4de8a2f6",
-    "fetched_at": "2026-11-14T05:03:20"
+    "fetched_at": "2026-11-15T04:56:57"
   },
   {
     "stock_code": "300502",
@@ -12778,23 +12796,5 @@
     "priority": "high",
     "event_id": "3895684129ed3a7e8b27",
     "fetched_at": "2026-08-17T03:16:11"
-  },
-  {
-    "stock_code": "300394",
-    "company_name": "天孚通信",
-    "event_time": "2026-08-16T23:37:08",
-    "source_type": "新闻-深圳商报·读创",
-    "title": "IPO雷达丨天孚通信被要求补材料：赴港上市必要性和合理性？出口管制合规情况？",
-    "url": "http://finance.eastmoney.com/a/202608163842567823.html",
-    "content": "其中，拟在港上市的深交所创业板上市公司天孚通信（A股代码300394）位列其中。",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光器件",
-    "priority": "high",
-    "event_id": "97ce79af2b92b581c094",
-    "fetched_at": "2026-08-18T03:10:53"
   }
 ]
