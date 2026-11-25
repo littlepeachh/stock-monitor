@@ -2,6 +2,60 @@
   {
     "stock_code": "300394",
     "company_name": "天孚通信",
+    "event_time": "2026-11-25T12:32:00",
+    "source_type": "新闻-数据宝",
+    "title": "300394，千亿市值股飙升！机构称消费电子或盈利修复，高成长潜力股来了",
+    "url": "http://finance.eastmoney.com/a/202611253939408112.html",
+    "content": "300394，千亿市值股飙升 11月25日上午，光模块龙头集体拉升。截至上午收盘，天孚通信（300394）飙升超10%，市值逼近1500亿元。中际旭创、新易盛两大龙头均逆市走强。此外，杰普特、联讯仪器、罗博特科等个股均涨超4%。",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "偏正面",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "c58eb74dde4f82833d01",
+    "fetched_at": "2026-11-25T07:07:45"
+  },
+  {
+    "stock_code": "300308",
+    "company_name": "中际旭创",
+    "event_time": "2026-11-24T19:21:52",
+    "source_type": "新闻-财联社",
+    "title": "中际旭创：拟20亿元至40亿元回购公司A股股份",
+    "url": "http://finance.eastmoney.com/a/202611243938596453.html",
+    "content": "中际旭创300308.SZ)发布回购报告书，公司拟使用自有资金或自筹资金以集中竞价交易方式回购公司已发行的部分A股股份，回购资金总额不低于20亿元且不超过40亿元，回购价格不超过600元/股。回购股份将用于员工持股计划或股权激励计划，以及为维护公司价值及股东权益所必需。",
+    "event_type": "股东与资本运作",
+    "importance_score": 74,
+    "importance_level": "重大",
+    "sentiment": "偏正面",
+    "impact": "可能影响供需结构、治理预期或每股价值",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "9e527bf4b5a024cf5737",
+    "fetched_at": "2026-11-25T07:07:47"
+  },
+  {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-11-24T17:28:00",
+    "source_type": "新闻-证券时报网",
+    "title": "11月24日3493只股发生盘后交易，浙江龙盛、新易盛、北纬科技等盘后交易额居前",
+    "url": "http://finance.eastmoney.com/a/202611243938527978.html",
+    "content": "（数据宝） 11月24日盘后交易额排名 代码 简称 收盘价（元） 涨跌幅（%） 盘后成交量（万股） 盘后交易额（万元） 600352 浙江龙盛 10.30 -1.72 1050.55 10820.67 300502 新易盛 180.01 -0.74 11.26 2026.91",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "bcb71c46684b11f2ffcf",
+    "fetched_at": "2026-11-25T07:07:45"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
     "event_time": "2026-11-24T11:18:00",
     "source_type": "新闻-21世纪经济报道",
     "title": "通信设备概念盘中走强，机构：AI算力需求持续高景气|异动情报",
@@ -15,7 +69,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "e8d1024a1fcf2313111d",
-    "fetched_at": "2026-11-24T08:32:36"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300394",
@@ -33,7 +87,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "3bf467acbf2dc4262e19",
-    "fetched_at": "2026-11-24T08:32:36"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300308",
@@ -51,7 +105,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "52f28c925059dfc7882a",
-    "fetched_at": "2026-11-24T08:32:37"
+    "fetched_at": "2026-11-25T07:07:47"
   },
   {
     "stock_code": "300502",
@@ -69,7 +123,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "de4a5ee3b23e8959b836",
-    "fetched_at": "2026-11-24T08:32:34"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300308",
@@ -87,7 +141,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "e3c27befb86d1d7138ae",
-    "fetched_at": "2026-11-24T08:32:37"
+    "fetched_at": "2026-11-25T07:07:47"
   },
   {
     "stock_code": "300308",
@@ -105,7 +159,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7ef92aa3cf442ed3b22c",
-    "fetched_at": "2026-11-24T08:32:37"
+    "fetched_at": "2026-11-25T07:07:47"
   },
   {
     "stock_code": "300502",
@@ -141,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c9e13337a68e9de3d30d",
-    "fetched_at": "2026-11-24T08:32:34"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300394",
@@ -195,7 +249,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "9854bca01a56bcd463ee",
-    "fetched_at": "2026-11-24T08:32:34"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300394",
@@ -213,7 +267,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c4a6784cb8b7c715de55",
-    "fetched_at": "2026-11-24T08:32:36"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300308",
@@ -231,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7cfbdf1ce81716bb63dc",
-    "fetched_at": "2026-11-24T08:32:37"
+    "fetched_at": "2026-11-25T07:07:47"
   },
   {
     "stock_code": "300394",
@@ -249,7 +303,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "a95b01331e09a9446ea5",
-    "fetched_at": "2026-11-24T08:32:36"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300394",
@@ -267,7 +321,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "0f7570fc6c058b0658bf",
-    "fetched_at": "2026-11-24T08:32:36"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300394",
@@ -285,7 +339,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "2607dcf833f2d8faf3b3",
-    "fetched_at": "2026-11-24T08:32:36"
+    "fetched_at": "2026-11-25T07:07:45"
   },
   {
     "stock_code": "300502",
@@ -11536,77 +11590,5 @@
     "priority": "high",
     "event_id": "ec71df6a88ec115ed5eb",
     "fetched_at": "2026-08-30T03:49:12"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-27T00:00:00",
-    "source_type": "公司公告",
-    "title": "中际旭创:关于悉数行使超额配售权、稳定价格行动及稳定价格期结束的公告",
-    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608271828513031.html",
-    "content": "其他",
-    "event_type": "行业/市场新闻",
-    "importance_score": 64,
-    "importance_level": "一般",
-    "sentiment": "中性",
-    "impact": "需结合公司产业链位置判断间接影响",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "fe9ae7428003025973e6",
-    "fetched_at": "2026-08-30T03:49:12"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-27T00:00:00",
-    "source_type": "公司公告",
-    "title": "中际旭创:关于境外上市股份(H股)调入港股通标的证券名单的公告",
-    "url": "https://data.eastmoney.com/notices/detail/300308/AN202608271828549803.html",
-    "content": "其他",
-    "event_type": "一般动态",
-    "importance_score": 54,
-    "importance_level": "一般",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "c67042f659f022e3e56c",
-    "fetched_at": "2026-08-30T03:49:12"
-  },
-  {
-    "stock_code": "300394",
-    "company_name": "天孚通信",
-    "event_time": "2026-08-26T16:28:00",
-    "source_type": "新闻-证券时报网",
-    "title": "8月26日3722只股发生盘后交易，飞龙股份、亨通光电、中际旭创等盘后交易额居前",
-    "url": "http://finance.eastmoney.com/a/202608263854610358.html",
-    "content": "长鑫科技 56.10 -0.71 13.75 771.54 000725 京东方A 5.72 -0.35 124.74 713.51 600584 长电科技 73.62 -0.58 9.51 700.13 600176 中国巨石 39.50 -0.73 17.55 693.23 300394",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光器件",
-    "priority": "high",
-    "event_id": "ab8e9afe7aaeffb1ae69",
-    "fetched_at": "2026-08-27T07:27:55"
-  },
-  {
-    "stock_code": "300394",
-    "company_name": "天孚通信",
-    "event_time": "2026-08-26T12:49:00",
-    "source_type": "新闻-证券时报网",
-    "title": "SuperX获3880万美元服务器集群订单",
-    "url": "http://finance.eastmoney.com/a/202608263854399319.html",
-    "content": "此外，SuperX与天孚通信300394设立的合资公司近期完成注册，补齐了全栈AI基础设施解决方案中的光互连模块。",
-    "event_type": "重大合同/订单",
-    "importance_score": 83,
-    "importance_level": "重大",
-    "sentiment": "中性",
-    "impact": "可能影响未来收入确认和订单能见度",
-    "industry": "光器件",
-    "priority": "high",
-    "event_id": "f98c6114a03d2f822639",
-    "fetched_at": "2026-08-29T05:45:58"
   }
 ]
