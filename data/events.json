@@ -1,5 +1,41 @@
 [
   {
+    "stock_code": "300502",
+    "company_name": "新易盛",
+    "event_time": "2026-11-25T16:35:00",
+    "source_type": "新闻-证券时报网",
+    "title": "11月25日18只股盘后交易额超500万元",
+    "url": "http://finance.eastmoney.com/a/202611253939554526.html",
+    "content": "浙江龙盛 10.40 0.97 464.79 4833.82 002685 华东重机 8.99 0.45 147.54 1326.38 000530 冰山冷热 14.70 9.54 87.37 1284.34 300750 宁德时代 208.42 -8.33 5.84 1217.17 300502",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光模块",
+    "priority": "high",
+    "event_id": "f3e68f233fcb21043c7a",
+    "fetched_at": "2026-11-26T06:58:22"
+  },
+  {
+    "stock_code": "300394",
+    "company_name": "天孚通信",
+    "event_time": "2026-11-25T16:35:00",
+    "source_type": "新闻-证券时报网",
+    "title": "11月25日18只股盘后交易额超500万元",
+    "url": "http://finance.eastmoney.com/a/202611253939554526.html",
+    "content": "亨通光电 34.20 -6.30 13.70 468.54 601398 工商银行 9.20 -0.22 50.38 463.50 600206 有研新材 37.99 -2.19 11.90 452.08 002242 九阳股份 38.56 10.01 11.67 450.00 300394",
+    "event_type": "一般动态",
+    "importance_score": 45,
+    "importance_level": "低",
+    "sentiment": "中性",
+    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
+    "industry": "光器件",
+    "priority": "high",
+    "event_id": "cf6dfaca12cef59fef34",
+    "fetched_at": "2026-11-26T06:58:23"
+  },
+  {
     "stock_code": "300394",
     "company_name": "天孚通信",
     "event_time": "2026-11-25T12:32:00",
@@ -15,7 +51,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c58eb74dde4f82833d01",
-    "fetched_at": "2026-11-25T07:07:45"
+    "fetched_at": "2026-11-26T06:58:23"
   },
   {
     "stock_code": "300308",
@@ -33,7 +69,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "9e527bf4b5a024cf5737",
-    "fetched_at": "2026-11-25T07:07:47"
+    "fetched_at": "2026-11-26T06:58:24"
   },
   {
     "stock_code": "300502",
@@ -51,7 +87,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "bcb71c46684b11f2ffcf",
-    "fetched_at": "2026-11-25T07:07:45"
+    "fetched_at": "2026-11-26T06:58:22"
   },
   {
     "stock_code": "300394",
@@ -69,7 +105,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "e8d1024a1fcf2313111d",
-    "fetched_at": "2026-11-25T07:07:45"
+    "fetched_at": "2026-11-26T06:58:23"
   },
   {
     "stock_code": "300394",
@@ -87,7 +123,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "3bf467acbf2dc4262e19",
-    "fetched_at": "2026-11-25T07:07:45"
+    "fetched_at": "2026-11-26T06:58:23"
   },
   {
     "stock_code": "300308",
@@ -105,7 +141,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "52f28c925059dfc7882a",
-    "fetched_at": "2026-11-25T07:07:47"
+    "fetched_at": "2026-11-26T06:58:24"
   },
   {
     "stock_code": "300502",
@@ -141,7 +177,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "e3c27befb86d1d7138ae",
-    "fetched_at": "2026-11-25T07:07:47"
+    "fetched_at": "2026-11-26T06:58:24"
   },
   {
     "stock_code": "300308",
@@ -159,7 +195,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7ef92aa3cf442ed3b22c",
-    "fetched_at": "2026-11-25T07:07:47"
+    "fetched_at": "2026-11-26T06:58:24"
   },
   {
     "stock_code": "300502",
@@ -195,7 +231,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "c9e13337a68e9de3d30d",
-    "fetched_at": "2026-11-25T07:07:45"
+    "fetched_at": "2026-11-26T06:58:22"
   },
   {
     "stock_code": "300394",
@@ -249,7 +285,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "9854bca01a56bcd463ee",
-    "fetched_at": "2026-11-25T07:07:45"
+    "fetched_at": "2026-11-26T06:58:22"
   },
   {
     "stock_code": "300394",
@@ -267,7 +303,7 @@
     "industry": "光器件",
     "priority": "high",
     "event_id": "c4a6784cb8b7c715de55",
-    "fetched_at": "2026-11-25T07:07:45"
+    "fetched_at": "2026-11-26T06:58:23"
   },
   {
     "stock_code": "300308",
@@ -285,7 +321,7 @@
     "industry": "光模块",
     "priority": "high",
     "event_id": "7cfbdf1ce81716bb63dc",
-    "fetched_at": "2026-11-25T07:07:47"
+    "fetched_at": "2026-11-26T06:58:24"
   },
   {
     "stock_code": "300394",
@@ -11428,167 +11464,5 @@
     "priority": "high",
     "event_id": "04ca1744c363e688ebf0",
     "fetched_at": "2026-08-31T03:51:16"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-27T18:23:38",
-    "source_type": "新闻-财联社",
-    "title": "中际旭创：境外上市股份（H股）调入港股通标的证券名单",
-    "url": "http://finance.eastmoney.com/a/202608273856557311.html",
-    "content": "中际旭创300308.SZ)公告称，根据《上海证券交易所沪港通业务实施办法》和《深圳证券交易所深港通业务实施办法》的有关规定，公司于香港联合交易所有限公司发行并上市的股票（以下简称“H股”）自2026年8月27日起调入沪港通及深港通（以下统称“港股通”）标的证券名单。",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "a96aef387d784294b523",
-    "fetched_at": "2026-08-30T03:49:12"
-  },
-  {
-    "stock_code": "300502",
-    "company_name": "新易盛",
-    "event_time": "2026-08-27T16:41:00",
-    "source_type": "新闻-证券时报网",
-    "title": "8月27日盘后固定价格交易额13.10亿元",
-    "url": "http://finance.eastmoney.com/a/202608273856420488.html",
-    "content": "广东建科 13.45 -0.59 62.99 847.22 300274 阳光电源 98.84 -12.24 8.45 835.20 601138 工业富联 63.86 5.43 13.04 832.73 688008 澜起科技 221.22 10.06 3.63 803.65 300502",
-    "event_type": "行业/市场新闻",
-    "importance_score": 59,
-    "importance_level": "一般",
-    "sentiment": "中性",
-    "impact": "需结合公司产业链位置判断间接影响",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "018e1c76b3a2886aa500",
-    "fetched_at": "2026-08-30T03:49:07"
-  },
-  {
-    "stock_code": "300394",
-    "company_name": "天孚通信",
-    "event_time": "2026-08-27T13:28:00",
-    "source_type": "新闻-证券时报网",
-    "title": "今日186只个股突破半年线",
-    "url": "http://finance.eastmoney.com/a/202608273856208932.html",
-    "content": "32.32 35.11 8.62 603738 泰晶科技 9.02 13.48 39.24 42.31 7.82 301021 英诺激光 8.95 4.72 75.34 81.22 7.81 688807 优迅股份 10.97 17.31 327.96 353.00 7.64 300394",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "偏正面",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光器件",
-    "priority": "high",
-    "event_id": "bf36369064b78720089d",
-    "fetched_at": "2026-08-30T03:49:09"
-  },
-  {
-    "stock_code": "300394",
-    "company_name": "天孚通信",
-    "event_time": "2026-08-27T11:07:00",
-    "source_type": "新闻-证券时报网",
-    "title": "【盘中播报】140只个股突破半年线",
-    "url": "http://finance.eastmoney.com/a/202608273856115540.html",
-    "content": "10.09 21.76 4.61 4.91 6.54 603900 莱绅通灵 10.02 7.62 6.74 7.14 5.92 002219 新里程 5.91 4.03 2.20 2.33 5.91 300243 瑞丰高材 9.14 8.79 16.58 17.55 5.85 300394",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "偏正面",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光器件",
-    "priority": "high",
-    "event_id": "2a99edc007abec525edd",
-    "fetched_at": "2026-08-30T03:49:09"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-27T09:41:15",
-    "source_type": "新闻-人民财讯",
-    "title": "中际旭创等在苏州新设创投合伙企业",
-    "url": "http://finance.eastmoney.com/a/202608273855845454.html",
-    "content": "企查查股权穿透显示，该企业由中际旭创300308全资子公司成都智禾光通科技有限公司等共同出资。",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "221d3a1f4bfbc36efe90",
-    "fetched_at": "2026-08-30T03:49:12"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-27T09:39:00",
-    "source_type": "新闻-人民财讯",
-    "title": "中际旭创等在苏州新设创投合伙企业",
-    "url": "http://finance.eastmoney.com/a/202608273855945817.html",
-    "content": "企查查股权穿透显示，该企业由中际旭创300308全资子公司成都智禾光通科技有限公司等共同出资。",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "481d43c4ec9e554b497a",
-    "fetched_at": "2026-08-30T03:49:12"
-  },
-  {
-    "stock_code": "300502",
-    "company_name": "新易盛",
-    "event_time": "2026-08-27T09:29:00",
-    "source_type": "新闻-证券时报网",
-    "title": "14股获杠杆资金净买入超亿元",
-    "url": "http://finance.eastmoney.com/a/202608273855941579.html",
-    "content": "（数据宝） 8月26日融资客净买入金额排名 代码 简称 8月26日涨跌幅（%） 融资净买入额（万元） 最新融资余额（万元） 占流通市值比例（%） 所属行业 300502 新易盛 -0.52 31148.18 1954149.77 3.91 通信 603083 剑桥科技 10.00",
-    "event_type": "股东与资本运作",
-    "importance_score": 74,
-    "importance_level": "重大",
-    "sentiment": "中性",
-    "impact": "可能影响供需结构、治理预期或每股价值",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "549dc064ca9c6871f3d7",
-    "fetched_at": "2026-08-30T03:49:07"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-27T09:26:00",
-    "source_type": "新闻-财中社",
-    "title": "中际旭创：超额配售权悉数行使，额外净筹约79.39亿港元",
-    "url": "http://finance.eastmoney.com/a/202608273855927793.html",
-    "content": "8月27日，中际旭创（300308/03308）发布公告，公司同意由保荐人兼整体协调人于2026年8月26日悉数行使超额配售权，按每股H股980港元的价格，发行818万股H股超额配售股份，约占全球发售初步可供认购发售股份总数的15%。",
-    "event_type": "行业/市场新闻",
-    "importance_score": 59,
-    "importance_level": "一般",
-    "sentiment": "中性",
-    "impact": "需结合公司产业链位置判断间接影响",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "10b162d6edd135214ba6",
-    "fetched_at": "2026-08-30T03:49:12"
-  },
-  {
-    "stock_code": "300308",
-    "company_name": "中际旭创",
-    "event_time": "2026-08-27T07:56:46",
-    "source_type": "新闻-人民财讯",
-    "title": "中际旭创：悉数行使超额配售权",
-    "url": "http://finance.eastmoney.com/a/202608273855469253.html",
-    "content": "中际旭创300308早间公告，根据本次H股发行上市方案，公司同意由保荐人兼整体协调人（代表国际承销商）于8月26日悉数行使超额配售权，按每股H股股份980港元发行817.5万股H股超额配售股份。前述超额配售权悉数行使后，本次发行的H股由5450万股增加至6267.5万股。",
-    "event_type": "一般动态",
-    "importance_score": 45,
-    "importance_level": "低",
-    "sentiment": "中性",
-    "impact": "当前未识别出明确财务影响，建议快速浏览原文",
-    "industry": "光模块",
-    "priority": "high",
-    "event_id": "ec71df6a88ec115ed5eb",
-    "fetched_at": "2026-08-30T03:49:12"
   }
 ]
